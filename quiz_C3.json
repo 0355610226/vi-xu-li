@@ -1,0 +1,1091 @@
+[
+  {
+    "id": 1,
+    "question": "TronglậptrìnhhợpngữchomáyIBMPC,tênnàosauđâyhợp lệ",
+    "options": [
+      "1baitap",
+      "baitap-1",
+      "baitap.1",
+      "@Baitap"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "TronglậptrìnhhợpngữchomáyIBMPCtênnàosauđâuhợp lệ:",
+    "options": [
+      "2000$",
+      "Y.2000",
+      "C8086",
+      "AX"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "Tronglậptrìnhhợpngữtênnàosauđâyhợp lệ:",
+    "options": [
+      "Two_word",
+      "Two.word",
+      "Twoword",
+      "Cảbađềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "Dấu“;”cótácdụnggìtrongchươngtrình",
+    "options": [
+      "Chúthích",
+      "Kếtthúc",
+      "Mởđầu",
+      "Cả3đềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Độdàicủatrườngtêntronglậptrìnhhợpngữlàbaonhiêuký tự",
+    "options": [
+      "1đến15kýtự",
+      "1đến31kýtự",
+      "1đến50kýtự",
+      "Từ1kýtựtrởlên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "Khaibáoquymôkíchthướcchươngtrình?",
+    "options": [
+      ".Model",
+      ".Stack",
+      ".Data",
+      ".Code"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "Khaibáokíchthướcbộnhớngănxếp?",
+    "options": [
+      ".Model",
+      ".Stack",
+      ".Data",
+      ".Code"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "Khaibáokíchthướcbộnhớdữliệu?",
+    "options": [
+      ".Model",
+      ".Stack",
+      ".Data",
+      ".Code"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "KhaibáoquimôchươngtrìnhhợpngữkiểuTinylà kiểu",
+    "options": [
+      "Mãlệnhvàdữliệuđượcgóigọntrongcùngmộtđoạn",
+      "Mãlệnhvàdữliệunằmtrongnhiềuđoạn",
+      "Mãlệnhnằmgọntrongmộtđoạn,dữliệunằmgọntrongmột đoạn",
+      "Mãlệnhnằmtrongmộtđoạndữliệunằmtrongnhiềuđoạn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "KhaibáoquimôchươngtrìnhhợpngữkiểuSmalllà kiểu",
+    "options": [
+      "Mãlệnhvàdữliệuđượcgóigọntrongcùngmộtđoạn",
+      "Mãlệnhvàdữliệunằmtrongnhiềuđoạn",
+      "Mãlệnhnằmgọntrongmộtđoạn,dữliệunằmgọntrongmột đoạn",
+      "Mãlệnhnằmtrongmộtđoạndữliệunằmtrongnhiềuđoạn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "“.CODE”làkiểukhaibáogìtronglậptrìnhhợp ngữ",
+    "options": [
+      "Khaibáođoạnngănxếp",
+      "Khaibáođoạnmãlệnh",
+      "Khaibáođoạndữliệu",
+      "Khaibáokiểukíchthướcbộnhớ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "“.STACK”làkiểukhaibáogìtronglậptrìnhhợp ngữ",
+    "options": [
+      "Khaibáođoạnngănxếp",
+      "Khaibáođoạnmãlệnh",
+      "Khaibáođoạndữliệu",
+      "Khaibáokiểukíchthướcbộnhớ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "“.DATA”làkiểukhaibáogìtronglậptrìnhhợp ngữ",
+    "options": [
+      "Khaibáođoạnngănxếp",
+      "Khaibáođoạnmãlệnh",
+      "Khaibáođoạndữliệu",
+      "Khaibáokiểukíchthướcbộnhớ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "MộtbiếnDWlà1biếnkiểu?",
+    "options": [
+      "Byte",
+      "Từ",
+      "Từkép",
+      "Kítự"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "MộtbiếnDBlà1biếnkiểu?",
+    "options": [
+      "Byte",
+      "Từ",
+      "Từkép",
+      "Khônglàkiểudữliệu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "MộtbiếnDDlà1biếnkiểu?",
+    "options": [
+      "Byte",
+      "Từ",
+      "Từkép",
+      "Kítự"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "MộtbiếnDBlà1biếnkiểu?",
+    "options": [
+      "1Byte",
+      "2Byte",
+      "3Byte",
+      "4Byte"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "MộtbiếnDWlà1biếnkiểu?",
+    "options": [
+      "1Byte",
+      "2Byte",
+      "3Byte",
+      "4Byte"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "MộtbiếnDDlà1biếnkiểu?",
+    "options": [
+      "1Byte",
+      "2Byte",
+      "3Byte",
+      "4Byte"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "Khaibáo1biếnkiểu2bytecótên“Ngoc” là?",
+    "options": [
+      "NgocDB1,2,3",
+      "ngocDW?",
+      "NgocDB?",
+      "ngocDd?"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "Lệnhkhaibáo1biếnkiểu1bytecótên“St” là?",
+    "options": [
+      "StDB1,2,3",
+      "StDW?",
+      "StDB?",
+      "StDD?"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "Mộtfilelậptrìnhhợpngữcóđuôilà?",
+    "options": [
+      ".c",
+      ".exe",
+      ".com",
+      "Tấtcảđềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "Mộtfilelậptrìnhhợpngữcóđuôilà?",
+    "options": [
+      ".asm",
+      ".exe",
+      ".com",
+      "Tấtcảđềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "Thứtựcácthànhphầntrongdònglệnhtrongchươngtrìnhhợpngữtừ tráiquasẽlà:",
+    "options": [
+      "Nhãn,cáctoánhạng,lệnh,chúthích",
+      "Nhãn,chúthích,lệnh,cáctoánhạng",
+      "Nhãn,lệnh,cáctoánhạng,chúthích",
+      "Nhãn,cáctoánhạng,lệnh,chúthích."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "Trongcúphápcủachươngtrìnhhợpngữ,bắtđầuchươngtrìnhchính là:",
+    "options": [
+      ".MODEL",
+      ".MAINPROC",
+      ".DOICHOPROC",
+      ".START"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "Tậpnàolàchỉdẫnhợpdịch.",
+    "options": [
+      ".Model,.Stack,.Data,.Code",
+      "Tấtcảcáclệnhtrênđềulàchỉthịhợpdịch",
+      "equ,segment,public,extrn,include",
+      "db,dd,dw,dt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "Stacklàcấutrúcdữliệuxuấtnhậptheokiểu",
+    "options": [
+      "Xuấtnhậpngẫunhiên",
+      "Nhậptrướcxuấttrước",
+      "Xuấtnhậptuầntự",
+      "Nhậpsauxuấttrước"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "ChọnkếtquảđúngcủalệnhMOV[1234],12h",
+    "options": [
+      "Hoánđổivịtrícủa1234và12",
+      "Hoansđổigiátrịcủaổnhớ1234vàgiátrị13h",
+      "Chuyểngiátrị12hvàoô[1234]",
+      "Lỗikhôngchuyểntiếpgiátrịvàotừônhớ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "Lệnhthựchiệnchuyểnnộidung2ônhớliêntiếpcóđịachỉDS:1234h vàDS:1234h+1vàothanhghiAXlà:",
+    "options": [
+      "MOVAX,[1234H]",
+      "MOVAL,[1234H]",
+      "MOVAX,[1235H]",
+      "MOAAL,[1235H]"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "ChọncâutrảlờiđúngkhidùnglệnhIn,Outđểtraođổivớithiếtbị ngoại vi",
+    "options": [
+      "Phứctạpvìphảibiếtđịachỉcổngngoạivi",
+      "Cáchệthốngkhácnhaucóđịachỉkhácnhau",
+      "Khôngcầnbiếtđịachỉcổngcầnghépnốithiếtbị",
+      "CảAvàBđúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "NếuđịachỉStacktrongCPU8086là:FFEEhthìsaukhithựchiện các lệnhPushAX,PushBXthìgiátrịđỉnhSTACKcònbaonhiêu?",
+    "options": [
+      "FFECh",
+      "FFEAh",
+      "FFEDH",
+      "FFEBH"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "Trongcáclệnhsau,lệnhnàolàlệnhkhônghợplệ?",
+    "options": [
+      "MOVAL,BL",
+      "MOVBX,AL",
+      "MOVAX,BX",
+      "MULAL,BL"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "LệnhXORAx,Axcóthểthaybằnglệnhnào",
+    "options": [
+      "MOVAx,0",
+      "MOVAx,1",
+      "MOVAx,AH",
+      "Cảbađềuđúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "NhữnglệnhMOVnàosauđâysai?",
+    "options": [
+      "MOV AX, BX",
+      "MOV A2, AL",
+      "MOV AX, BL",
+      "MOV BH, 4A6Fh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "NhữnglệnhMOVnàosauđâysai? .DATA A1DW0 A2DW6 A3DB5 .CODE",
+    "options": [
+      "MOV DX,3",
+      "MOV A1, BX",
+      "MOV CL,A3",
+      "MOV A1,A2"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "GiảsửcóAL=61H,CL=4saulệnhROLAL,CLsẽ được.",
+    "options": [
+      "AL=16;CF=1",
+      "AL=60;CF=1",
+      "AL=16;CF=0",
+      "AL=60;CF=0"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "LệnhMOVCL,[BX]thựchiện:",
+    "options": [
+      "ChuyểnnộidungônhớcóđịachỉDS:BXvàoCL",
+      "Chuyểnnộidung2ônhớcóđịachỉDS:(BX)vàDS:(BX+1)vào CL",
+      "ChuyểnnộidungcủaBXvàoCX",
+      "ChuyểnnộidungcủaBXvàoCL"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "LệnhMOV[BX],AXthựchiện:",
+    "options": [
+      "ChuyểnnộidungAXvào2ônhớliêntiếpcóđịachỉDS:(BX)và DS:(BX+1)",
+      "ChuyểnnộidungcủaAXvàoBX",
+      "ChuyểnnộidungcủaAXvàoônhớcóđịachỉDS:BX",
+      "ChuyểnnộidungcủaALvàoônhớcóđịachỉDS:BX"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "LệnhMOVCL,[BX]+5thựchiện:",
+    "options": [
+      "ChuyểnnộidungônhớcóđịachỉSS:(BX+5)vàoAL",
+      "Chuyểnnộidung2ônhớcóđịachỉDS:(BX+5)vàDS:(BX+6)vào CL",
+      "ChuyểnnộidungônhớcóđịachỉDS:(BX+5)vàoAL",
+      "a,b,cđềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "GiảsửCX=00F0h,DX=0007h,saulệnhCMPCX,DXlệnhnàosau đâychuyểnđiềukhiểnchươngtrìnhđếnnhãnM?",
+    "options": [
+      "JEM",
+      "JGM",
+      "JLM",
+      "JBM"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "Kếtquảcủađoạnlệnhsauđượcchứatrongthanhghinào? MOVAL,212 MOVBL,45 MULBL",
+    "options": [
+      "AX",
+      "CX",
+      "DX",
+      "AL"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "Cáckhaibáodữliệusau,kháibáonàokhôngbị lỗi:",
+    "options": [
+      "XonDB1,2,3,fh",
+      "YesDB4,7,h,9",
+      "RclDB19,7,6,10,3",
+      "AnhDB9,3,8,7,0 3.1.2"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "Đểxuất1kýtựramànhình,dùnghàmnàocủangắt21h:",
+    "options": [
+      "Hàm1.",
+      "Hàm2.",
+      "Hàm8.",
+      "Hàm9."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "Đểxuất1kýtựramànhình,dùngngắt21h,kýtựđóphảiđượcđểsẵn ởtrongthanhghinào?",
+    "options": [
+      "AL.",
+      "DL.",
+      "AH.",
+      "BL."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "Đểxuất1chuỗikýtựramànhình,dùnghàmnàocủangắt 21h:",
+    "options": [
+      "Hàm1.",
+      "Hàm2.",
+      "Hàm8.",
+      "Hàm9."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "Đểxuất1chuỗikýtựramànhình,dùngngắt21h,địachỉcủachuỗi ký tựđóphảiđượcđểsẵntrongthanhghinào?",
+    "options": [
+      "AX",
+      "BX.",
+      "CX.",
+      "DX."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "Đểnhập1kýtựtừbànphímcầndùnghàmnàocủangắt21h:",
+    "options": [
+      "Hàm1.",
+      "Hàm2.",
+      "Hàm8.",
+      "Hàm9."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "Đểthoátkhỏichươngtrình,dùnghàmnàocủangắt21h?",
+    "options": [
+      "Hàm1h.",
+      "Hàm2h.",
+      "Hàm9h.",
+      "Hàm4Ch. Câu 384: Để đưa ra màn hình một thông báo “nhập vào một ký tự bất kỳ”, và nhận được ký tự người sửdụngnhậpvào,chươngtrìnhphảisửdụngnhữnghàm nà"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "Saukhithựchiệnhàm1củangắt21h,điềugìsẽxảy ra",
+    "options": [
+      "GiátrịtrongthanhghiALthayđỏi",
+      "GiátrịtrongthanhghiBLthayđỏi",
+      "GiátrịtrongthanhghiCLthayđỏi",
+      "GiátrịtrongthanhghiDLthayđỏi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "Khithựchiệnhàm1củangắt21h,kýtựnhậpvàotừngườidùngsẽ đượcđểởđâu",
+    "options": [
+      "ThanhghiAL",
+      "ThanhghiBL",
+      "ThanhghiCL",
+      "ThanhghiDL"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "Thanhghinàosẽchứagiátrịsốhiệuhàmchứcnăngtươngứngkhi gọi ngắt21h",
+    "options": [
+      "ThanhghiAH",
+      "ThanhghiAL",
+      "ThanhghiDH",
+      "ThanhghiDL"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 52,
+    "question": "Lệnhgọingắt21hcủaDOS?",
+    "options": [
+      "INC",
+      "INTR",
+      "INTA",
+      "INT"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 53,
+    "question": "Lệnhgọingắtlàlệnhnàotrongcáclệnhsau:",
+    "options": [
+      "INC",
+      "INT",
+      "IMUL",
+      "LEA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 54,
+    "question": "Hệvixửlý8086cóbaonhiêusốhiệungắt:",
+    "options": [
+      "21",
+      "16",
+      "64",
+      "256 3.2BÀITẬP"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 55,
+    "question": "Saukhithựchiệnđoạnchươngtrìnhsau,giátrịthanhghiALbằngbao nhiêu? MOVAL,5 MOVBL,10 ADDBL,AL SUBBL,1",
+    "options": [
+      "5h",
+      "0Eh",
+      "26h",
+      "0"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 56,
+    "question": "Saukhithựchiệnđoạnchươngtrình,giátrịtrongthanhghiBLbằng baonhiêu? MOVAL,5 MOVBL,10 ADDBL,AL SUBBL,1",
+    "options": [
+      "5h",
+      "0Eh",
+      "26h",
+      "0"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "Saukhithựchiệnđoạnchươngtrìnhsau,thanhghiBXcógiátrịbằng baonhiêu? MOVAX,0 MOVBX,0 MOVAL,5 MOVBL,10h ADDBL,AL XORBL,55h",
+    "options": [
+      "5h",
+      "15h",
+      "40h",
+      "0h"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "Saukhithựchiệnđoạnchươngtrìnhsau,thanhghiBXcógiátrịbằng baonhiêu? MOVAX,0 MOVBX,0 MOVAL,5 MOVBL,10h ADDAL,BL XORBL,55h ThanhghiBXcógítrịbằngbaonhiêu:",
+    "options": [
+      "15h",
+      "25h",
+      "35h",
+      "45h"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "question": "Saukhithựchiệnđoạnchươngtrìnhsau,thanhghiAXcógiátrịbằng baonhiêu? MOVAX,0 MOVBX,0 MOVAL,5 MOVBL,10h ADDAL,BL XORBL,55h",
+    "options": [
+      "15h",
+      "25h",
+      "35h",
+      "45h"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "HãychobiếtkếtquảchứatrongbiếnVarsaukhithựchiệnđoạnlệnh sau MOVVar,0 MOVAX,5 MOVBX,6 ADDAX,BX MOVVar,AX",
+    "options": [
+      "6",
+      "0Bh",
+      "Giátrịbấtkỳ",
+      "0Ch"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 61,
+    "question": "AXsẽbằngbaonhiêusaukhithựchiệnđoạnlệnh sauMOVAX,4 MOVBX,5 DECBX ADDAX,BX INCAX",
+    "options": [
+      "AX=10",
+      "AX=4",
+      "AX=9",
+      "AX=7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 62,
+    "question": "SaukhithựchiệnđoạnchươngtrìnhsauthanhghiAXcógiátrị bằng?XORAX,AX XORBX,BX MOVAX,5857H MOVBX,58A8H ORAX,BX",
+    "options": [
+      "5858h",
+      "FFh",
+      "58A8h",
+      "58FFh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 63,
+    "question": "TìmgiátrịcủaAHsauđọanchươngtrìnhsau: MOVAH,75H ORAH,0EH",
+    "options": [
+      "7E(H)",
+      "7F(H)",
+      "05(D)",
+      "11111010(B)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 64,
+    "question": "Chođoạnchươngtrìnhsau,hỏigíatrịbanđầucủaAXvàBXtrước khivàonhãnlặpablà MOVBX,100 XORAX,AX MOVCX,10 ab:ADDAX,2 SUBBX,5 LOOPab",
+    "options": [
+      "100,0",
+      "0,100",
+      "1000,10",
+      "0,10"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 65,
+    "question": "HỏigiátrịcủaAXsaukhithựchiệnđoạnchương trình?MOVBX,100 XORAX,AX MOVCX,10 ab:ADDAX,2 SUBBX,5 LOOPab",
+    "options": [
+      "2",
+      "20",
+      "200",
+      "2000"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 66,
+    "question": "HỏigiátrịcủaBXsaukhithựchiệnđoạnchương trình?MOVBX,100 XORAX,AX MOVCX,10 ab:ADDAX,2 SUBBX,5 LOOPab",
+    "options": [
+      "5",
+      "50",
+      "500",
+      "5000"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 67,
+    "question": "LệnhLOOPcủađoạnchươngtrìnhtrêncóýnghĩa gì?MOVBX,100 XORAX,AX MOVCX,10 ab:ADDAX,2 SUBBX,5 LOOPab",
+    "options": [
+      "Thựchiệncảchươngtrình10lần",
+      "Thựchiệntừnhãnab10lần.",
+      "Tănggiátrịcủacácbiếntạinhãnablên1đơn vị",
+      "Tấtcảcácđápántrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 68,
+    "question": "Câulệnhsaucóýnghĩalàgì:“CMP AX,100”",
+    "options": [
+      "Chuyểngiátrị100vàothanhghiAX",
+      "SosánhgiátrịcủathanhghiAXvới100.",
+      "Copygiátrị100vàothanhghiAX",
+      "Tấtcảđềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 69,
+    "question": "ĐểxoáthanhghiCXvề0,lệnhnàosauđâylà đúng:",
+    "options": [
+      "XORCX,CX",
+      "CMPCX,0",
+      "MOVCX,[0]",
+      "ORCX,0 3.2.2"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 70,
+    "question": "Đoạnchươngtrìnhnàosauđâylàinmộtkýtựramàn hình:",
+    "options": [
+      "… .data SDB\"Hello!$\" .code MovAX,@data MovDS,AX MovDX,OFFSETs MovAH,9 Int21h …",
+      "… Movah,1 Int21h …",
+      "… Movax,4ch Int21h …",
+      "… MovAL,65 MovAH,02h Int21h ..."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 71,
+    "question": "Đoạnchươngtrìnhnàosauđâylàinmộtchuỗikýtựramàn hình:",
+    "options": [
+      "… .data SDB\"Hello!$\" .code MovAX,@data MovDS,AX MovDX,OFFSETs MovAH,9 Int21h …",
+      "… Movah,1 Int21h …",
+      "… Movax,4ch Int21h …",
+      "… MovAL,65 MovAH,02h Int21h ..."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 72,
+    "question": "Đoạnchươngtrìnhnàosauđâychờbấmmộtphímtừmàn hình?",
+    "options": [
+      "… .data SDB\"Hello!$\" .code MovAX,@data MovDS,AX MovDX,OFFSETs MovAH,9 Int21h …",
+      "… Movah,1 Int21h …",
+      "… Movax,4ch Int21h …",
+      "… MovAL,65 MovAH,02h Int21h ..."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 73,
+    "question": "Đoạnchươngtrìnhnàosauđâytrảlạiquyềnđiềukhiểnchohệđiều hành(vềDOS)?",
+    "options": [
+      "… .data SDB\"Hello!$\" .code MovAX,@data MovDS,AX MovDX,OFFSETs MovAH,9 Int21h …",
+      "… Movah,1 Int21h …",
+      "… Movax,4ch Int21h …",
+      "… MovAL,65 MovAH,02h Int21h ..."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 74,
+    "question": "Đoạnchươngtrìnhsauđâycóchứcnănglàmgì: MOVCX,5 K3:ADDBX,1 MOVDL,’3’ MOVAH,02h INT21h LOOPK3",
+    "options": [
+      "In5kítự’3’ramànhình",
+      "Đọc5kýtựtừbànphímvàoônhớsố 3",
+      "Đọcđĩacứngtạisectorthứ3",
+      "Dichuyển3bytetừđịachỉ5sangđịachỉ0eh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 75,
+    "question": "Đoạnlệnhdướiđâythựchiệnnhiệmvụgì: ... LEADX,buffer MOVAH,09h INT21h …",
+    "options": [
+      "Inxâukýtựđượctrỏbởibufferramànhình",
+      "Inkýtựđầutiênđượctrỏbởibufterramàn hình",
+      "Đọcmộtxâukýtựtừbànphímvàobuffer",
+      "Đọcmộtkýtựvàobuffertừbànphím"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 76,
+    "question": "Đoạnchươngtrìnhsauthựchiệncôngviệcgì? MOVCX,80 MOVDL,'*' MOVAX,200h LAP: INT21h loopLAP",
+    "options": [
+      "Hiệnlênmànhình1chuỗikýtựbấtkỳ",
+      "Hiệnmànhìnhmộtdòngkýtựgồm80dấu*",
+      "Hiệnlênkýtự*",
+      "Hiệnlêngiátrị200h"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 77,
+    "question": "Chạyđoạnchươngtrìnhsau,nếutanhấnvàophímsố1trênkeyboard, mãnhậnvềsẽđượcchứaởđâu? MOVAH,1 INT21h",
+    "options": [
+      "ThanhghiCL.",
+      "ThanhghiBL",
+      "ThanhghiDL",
+      "ThanhghiAL"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 78,
+    "question": "Hãychobiếtđoạnlệnhsauhiệnkếtquảramànhìnhbằngbao nhiêu?MOVDL,65 MOVAH,2 INT21h",
+    "options": [
+      "Giátrịsố21",
+      "Kýtự'A'.",
+      "Giátrịsố2",
+      "Khônghiệnragì"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 79,
+    "question": "Đoạnchươngtrìnhsauthựchiệnnhiệmvụgì? MOVAX,4Ch INT21h",
+    "options": [
+      "Nhậpmộtkýtựtừbànphím",
+      "Khônglàmgìcả",
+      "Hiểnthịmộtkýtự",
+      "Chấmdứtchươngtrìnhtrởvềhệđiềuhành"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 80,
+    "question": "Đoạnlệnhsauchokếtquảgìramànhình? MOVCX,3 LAP: MOVDL,31h MOVAH,2 INT21h loopLAP",
+    "options": [
+      "Khônginragìlênmànhình",
+      "\"111\"",
+      "\"AAA\"",
+      "\"212121\""
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 81,
+    "question": "Hãychobiếtđoạnlệnhsaulàlậptrìnhcấutrúc nào?MOVAH,1 LAP: INT21h CMPAL,'' JNELAP",
+    "options": [
+      "IF-THEN",
+      "FOR",
+      "DO-WHILE",
+      "REPEAT-UNTIL"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 82,
+    "question": "Đoạnchươngtrìnhsauthựchiệncôngviệc gì?MOVCX,1 MOVDL,1 Lap:MOVAH,2 INT21h INCDL INCCX CMPCX,255 JEThoat JMPLap Thoat:MOVAH,4Ch INT21h",
+    "options": [
+      "InrabảngmãASCII",
+      "Inracácsốtừ2đến256",
+      "Intừcácsốtừ1đến255",
+      "Tấtcảcácđápánđềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 83,
+    "question": "Chươngtrìnhsauinragi? MOVAX,2 MOVBX,AX MOVCX,8 print:MOVAH,2; MOVDL,'0' TESTBL,10000000b; JZzero MOVDL,'1' zero:INT21h SHLBL,1 LOOPprint",
+    "options": [
+      "000000110",
+      "000000010",
+      "000000011",
+      "000000010b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 84,
+    "question": "Chươngtrìnhsauinragi? MOVAl,\"A\" CMPAl,\"B\" JBL1 JAL2 L1: ADDAl,2 MOVDL,Al MOVAH,2 INT21h JMPexit L2: MOVDL,\"C\" MOVAH,2 INT21h",
+    "options": [
+      "B",
+      "A",
+      "AB",
+      "C"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 85,
+    "question": "Chươngtrìnhsaulàmgi? MOVAH,1 lap: INT21h CMPAL,27 JEthoat JMPlap thoat: MOVAX,4Ch INT21h",
+    "options": [
+      "Chophépnhậpmộtdãykýtựbấtkỳ,kếtthúcbằngESC",
+      "Inramànhình27kýtựA",
+      "Inramànhình27kýtựbấtkỳ",
+      "Chophépnhập27kýtựbấtkỳ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 86,
+    "question": "Chươngtrìnhsaulàmnhiệmvụ gì?MOVAH,2 MOVDL,41h INT21h MOVAH,2 ADDDL,01h INT21h MOVAH,2 SUBDL,01h INT21h",
+    "options": [
+      "Inramànhìnhkýtự:ABA",
+      "Inramànhìnhkýtự:AAA",
+      "Inramànhìnhkýtự:ABB",
+      "Inramànhìnhkýtự:ABC"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 87,
+    "question": "Chươngtrìnhsauinragì? MOVDL,\"A\" MOVCX,5 MOVAH,2 lap: INT21h INCDL LOOPlap",
+    "options": [
+      "Abcde",
+      "Aaaaa",
+      "Ababa",
+      "ABCDE"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 88,
+    "question": "Chochươngtrìnhsausaiởdòng nào?1.modelsmall 2.stack100h 3.data 4messagedb\"ChuongtrinhAssemblerdon gian\",10,13,”$”5.code 6mainproc 7movax,@data 8movds,ax 9movah,9 10movdx,offsetmessage 11int21h 12movax,4c00h 13int21h 14mainendp 15endmain",
+    "options": [
+      "5,12.",
+      "Khôngcódòngnàosai.",
+      "4,6,7,8.",
+      "14,15."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 89,
+    "question": "AXcógiátrịbằngbaonhiêusaukhithựchiệnđoạnlệnh sau:MOVAX,1 MOVCX,5 TOP: MULCX LOOPTOP",
+    "options": [
+      "100",
+      "5",
+      "0",
+      "120"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 90,
+    "question": "TìmkếtquảcủaAXsauđoạnchươngtrìnhsau: MOVAL,0 MOVBL,8 MULBL MOVBH,8 MULBH",
+    "options": [
+      "0",
+      "64",
+      "8",
+      "Tấtcảcácđápánđềusai."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 91,
+    "question": "Đoạnchươngtrìnhsauđâylàmcôngviệc gì?MOVAH,1 INT21H MOVBL,AL MOVAH,2 MOVDL,0DH INT21H MOVDL,0AH INT21H MOVDL,BL",
+    "options": [
+      "Chophépnhập1kýtựtừbànphímvàhiểnthịkýtựđóởđầudòngtiếp theo",
+      "Chophépnhập1kýtựtừbànphímvàhiểnthịkýtựđóởngaybêncạnh.",
+      "Chophépnhập1kýtựtừbànphímvàhiểnthịkýtựđóởcạnhkýtựvừa nhập",
+      "Cảa,b,cđềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 92,
+    "question": "Chobiếtđoạnchươngtrìnhsauthựchiệnnhiệmvụ gì?MOVAL,1 MOVBL,1 MOVCX,5 TOP: INCBL MULBL LOOPTOP",
+    "options": [
+      "ThựchiệnphéptínhAX=5!",
+      "ThựchiệnphéptínhAX=6!",
+      "ThựchiệnphéptínhAL=5!",
+      "Tấtcảcácđápánkiađềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 93,
+    "question": "Chobiếtđoạnchươngtrìnhsaulàmnhiệmvụgì? MOVAL,5 MOVBL,6 MULBL PUSHAX MOVAL,BL MOVBL,8 MULBL POPBX ADDAX,BX",
+    "options": [
+      "Thựchiệnphéptoán:AX=5.6+7.8",
+      "Thựchiệnphéptoán:BX=5.6+7.8",
+      "Thựchiệnphéptoán:AX=8.6+6.5",
+      "Cảa,b,cđềusai."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 94,
+    "question": "Đểnhập1kýtựtừbànphímvàhiểnthịởđầudòngtiếptheothì phải:",
+    "options": [
+      "Dùnghàm1,2,9củangắt21h.",
+      "Dùnghàm1,9,2củangắt21h.",
+      "Dùnghàm2,1,9củangắt21h.",
+      "Dùnghàm9,1,2củangắt21h."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 95,
+    "question": "Đoạnchươngtrìnhsaulàmcôngviệcgì: MOVAH,1 INT21H MOVAH,2 MOVDL,AL INT21H",
+    "options": [
+      "Chophépnhậpmộtkítựtừbànphím",
+      "Chophépnhậpmộtkítựtừbànphímvàhiểnthịkítựđóởđầudòng tiếp theo",
+      "Chophépnhậpmộtkítựtừbànphímvàhiểnthịkítựđóởcạnhkítựvừa nhập",
+      "Chophépnhậpmộtkítựtừbànvàhiểnthị"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 96,
+    "question": "Chobiết8ledđơnđượcnốivớicổngPortA(cóđịachỉlàBB6Eh), vànốitheoanotchung,đoạnlệnhnàosaođâychophépsangtấtcảcácled? A)MOVAL,00h MOVDX,BB6EH INDX,AL B)MOVAL,00h MOVDX,BB6EH OUTDX,AL C)MOVAL,FFh MOVDX,BB6EH INDX,AL D)MOVAL,FFh MOVDX,BB6EH OUTDX,AL",
+    "options": [
+      "ĐoạnlệnhA",
+      "ĐoạnlệnhB",
+      "ĐoạnlệnhC",
+      "ĐoạnlệnhD"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 97,
+    "question": "Cácdònglệnh3và4ởchươngtrìnhsaucóýnghĩa gì?1.INAL,PortB 2.MOVAH,AL 3.ANDAL,10000000 4.CMPAL,10000000 5.JNEkiemtra 6.MOVAL,FFh 7.OUTportA,AL 8.Kiemtra:",
+    "options": [
+      "KiểmtracổngPB_7cóphảiởmứccaohaykhông.",
+      "KiểmtracổngPB_7cóphảiởmứcthấphaykhông",
+      "KiểmtracổngPB_0cóphảiởmứcthấphaykhông",
+      "KiểmtracổngPB_0cóphảiởmứccaohaykhông"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 98,
+    "question": "LệnhJNEởdòng5cónghĩalàgì? 1.INAL,PortB 2.MOVAH,AL 3.ANDAL,10000000 4.CMPAL,10000000 5.JNEkiemtra 6.MOVAL,FFh 7.OUTportA,AL 8.Kiemtra:",
+    "options": [
+      "Nhảyđếnnhãnkiemtranếu2giátrịởdòng4bằngnhau",
+      "Nhảy đếnnhãnkiemtranếu2giátrịởdòng4khôngbằngnhau.",
+      "Chạy chươngtrìnhởnhãnkiemtrangaylậptứcmàkhôngcầnđiềukiện",
+      "Tất cảcácđápántrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 99,
+    "question": "Dònglệnh6,7cónghĩalàgì? 1.INAL,PortB 2.MOVAH,AL 3.ANDAL,10000000 4.CMPAL,10000000 5.JNEkiemtra 6.MOVAL,FFh 7.OUTportA,AL 8.Kiemtra: ANDAH,01000000 CMPAH,01000000 JNEExit MOVAL,00h OUTportC,AL 9.Exit:MOVAH,4CH INT21h",
+    "options": [
+      "ChuyểngiátrịFFhđượclưutừthanhghiALracổngAđểđiềukhiển bật đèn.",
+      "NhậngiátrịFFhtừcổngAđểlưuvàothanhghiAL",
+      "XóathanhghiAL",
+      "Tấtcảđềusai"
+    ],
+    "correctAnswer": 0
+  }
+]

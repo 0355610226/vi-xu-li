@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "Chipviđiềukhiển8051đượcsảnxuấtlầnđầuvàonămnào?Donhà sảnxuấtnàochếtạo?",
+    "options": [
+      "1976-hãngIntel",
+      "1976-hãngMotorola",
+      "1980-hãngIntel",
+      "1980–hãngZilog"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "VĐK8051cóbaonhiêuthanhghi16bit?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "LinhkiệntạodaođộngchoVĐKlà?",
+    "options": [
+      "Điệntrở",
+      "Thạchanh",
+      "Cuộncảm",
+      "Transistor"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "NguồnnuôiVĐKthườnglà?",
+    "options": [
+      "3V",
+      "4V",
+      "5V",
+      "9V"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Tốcđộcủavixửlínhanhhơnviđiềukhiểnvìsao?",
+    "options": [
+      "Dochếtạo",
+      "Tốcđộđiềukhiểnngoạivinhanhhơn",
+      "TốcđộRAMnhanhhơn",
+      "Xungđồnghồnhanhhơn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "ứngdụngcủaviđiềukhiển?",
+    "options": [
+      "tấtcảcácứngdụngtrên",
+      "điệnthoạidiđộng",
+      "máynghenhạc",
+      "đồnghồ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "8051cóbaonhiêucổngra–vàoI/O?Mỗicổngbaonhiêu bit?",
+    "options": [
+      "6cổng-8bit",
+      "2cổng–4bit",
+      "4cổng–4bit",
+      "4cổng–8bit"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "Chân30ALE(AdressLatchEnable)của8051cótácdụnggì?",
+    "options": [
+      "đượcđưaxuốngthấpchophépchọnbộnhớmãngoàiđốivới 8051",
+      "phântruyềndữliệunốitiếpkhigiaotiếpRS232",
+      "làtínhiệuđiềukhiểnxuấtracủa8051,nóchophépchọnbộnhớngoài",
+      "làtínhiệuđiềukhiểnxuấtracủa8051,nóchophépphânkênhbusđịachỉ vàbusdữliệucủaPort0"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "ViđiềukhiểnAVRcóbaonhiêuthanhghi?",
+    "options": [
+      "16thanhghi8bit",
+      "32thanhghi8bit",
+      "32thanhghi16bit",
+      "16thanhghi16bit"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "Sốlượngbộđếm/bộđịnhthời(Timer)cótrongchipviđiềukhiển 8051?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "Dunglượngbộnhớdữliệucótrongchip8051là:",
+    "options": [
+      "128byte",
+      "256byte",
+      "8KB",
+      "4KB"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "Dunglượngbộnhớchươngtrìnhcótrongchip8051 là:",
+    "options": [
+      "128byte",
+      "256byte",
+      "8KB",
+      "4KB"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "Dunglượngbộnhớchươngtrìnhngoàivàbộnhớdữliệungoàitốiđa màchip8051cókhảnăngtruyxuấtlà:",
+    "options": [
+      "32KB",
+      "64KB",
+      "128KB",
+      "256KB."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "Khônggianbộnhớchươngtrìnhbêntrongchip8051códunglượng tối đalà:",
+    "options": [
+      "128byte",
+      "256byte",
+      "4KB",
+      "8KB"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "Khônggianbộnhớdữliệubêntrongchip8051códunglượngtốiđa là:",
+    "options": [
+      "128byte",
+      "256byte",
+      "4KB",
+      "8KB"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "Trongchipviđiềukhiển8051,cácportxuấtnhậpcóhaicôngdụnglà:",
+    "options": [
+      "P1,P2,P3",
+      "P0,P1,P2",
+      "P0,P2,P3",
+      "P0,P1,P3"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "Trongchipviđiềukhiển8051,portcóchứcnăngxuấtnhậpcơbảnlà:",
+    "options": [
+      "P0",
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "Khichip8051sửdụngbộnhớbênngoàithìportnàođóngvaitròlà bus địachỉbytethấpvàbusdữliệuđahợp(AD0..AD7):",
+    "options": [
+      "P0",
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "Khichip8051sửdụngbộnhớbênngoàithìportnàođóngvaitròlà bus địachỉbytecao:",
+    "options": [
+      "P0",
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "Khichip8051sửdụngbộnhớbênngoàihaycácchứcnăngđặcbiệt thì portnàođóngvaitròlàcáctínhiệuđiềukhiển:",
+    "options": [
+      "P0",
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "PSENlàtínhiệuđiềukhiển:",
+    "options": [
+      "Chophéptruyxuất(đoc)bộnhớchươngtrìnhbênngoài.",
+      "Chophéptruyxuất(sửdụng)bộnhớchươngtrìnhbên ngoài.",
+      "Chophépchốtđịachỉđểthựchiệnviệcgiảiđahợp",
+      "Chophépthiếtlậplạitrạngtháihoạtđộngcuảchip 8051."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "EAlàtínhiệuđiềukhiển:",
+    "options": [
+      "Chophéptruyxuất(đọc)bộnhớchươngtrìnhbênngoài.",
+      "Chophéptruyxuất(sửdụng)bộnhớchươngtrìnhbên ngoài.",
+      "Chophépchốtđịachỉđểthựchiệnviệcgiảiđahợp.",
+      "Chophépthiếtlậplạichếđộhoạtđộngcuảchip8051"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "RSTlàtínhiệuđiềukhiển:",
+    "options": [
+      "Chophéptruyxuất(đọc)bộnhớchươngtrìnhbênngoài.",
+      "Chophéptruyxuất(sửdụng)bộnhớchươngtrìnhbên ngoài.",
+      "Chophépchốtđịachỉđểthựchiệnviệcgiảiđahợp.",
+      "Chophépthiếtlâplạichếđộhoạtđộngcuảchip8051."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "WRlàtínhiệuđiềukhiển:",
+    "options": [
+      "Chophépđọcthôngtintừbộnhớdữliệungoài.",
+      "Chophépghithôngtinvàobộnhớdữliệungoài.",
+      "Chophépđọcthôngtintừbộnhớchươngtrìnhngoài.",
+      "Chophépghithôngtinvàobộnhớchươngtrìnhngoài."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "RDlàtínhiệuđiềukhiển:",
+    "options": [
+      "Chophépđọcthôngtintừbộnhớdữliệungoài.",
+      "Chophépghithôngtinvàobộnhớdữliệungoài.",
+      "Chophépđọcthôngtintừbộnhớchươngtrìnhngoài.",
+      "Chophépghithôngtinvàobộnhớchươngtrìnhngoài."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "CấutrúcARMcócácđặctínhgì?",
+    "options": [
+      "Nạp/lưutrữ",
+      "Khôngchophéptruyxuấtbộnhớkhôngthẳnghàng",
+      "Filethanhghilớngồm16x32-bit",
+      "Tấtcảcácđápántrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "BộxửlýCPUcủaARMxuấthiệnnhiềunhấtởthiếtbị nào?",
+    "options": [
+      "Smartphone",
+      "Ổcứng",
+      "Viđiềukhiển",
+      "Truyềnhìnhkỹthuậtsốvàsettopbox"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "NhữngđiểmmạnhcủabộvixửlýARMtrêntậplệnhRISC",
+    "options": [
+      "Cáclệnhngắn",
+      "Cónhiềudạnglệnh",
+      "Thờigiancầnthiếtđểthiếtkếbộđiềukhiểnlàít.Điềunàygópphầnlàm giảmchiphíthiếtkế",
+      "Cả3đápántrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "ChiềudàimãlệnhcủaARMlà?",
+    "options": [
+      "làcốđịnh8bít",
+      "làcốđịnh16bít",
+      "làcốđịnh32bít",
+      "cácmãlệnhcóđộdàikhôngbằngnhau"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "ThờigianpháttriểnmộtsảnphẩmcủaARMngắnlà do?",
+    "options": [
+      "Bộvixửlýđơngiản",
+      "LàhệviđiềukhiểnkiểuCISC",
+      "Ítlệnh",
+      "Ítthanhghi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "Cáinàokhôngphảilàđặcđiểmcủabộviđiềukhiển ARM?",
+    "options": [
+      "Bộvixửlýphứctạp",
+      "Thờigianpháttriểnsảnphẩmngắn",
+      "Mấtítchukỳxungnhịpchothựcthimỗilệnh",
+      "Cáclệnhđơngiản"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "Cáinàokhôngphảilàđặcđiểmcủabộviđiềukhiển ARM?",
+    "options": [
+      "Tốcđộtínhtoáncao",
+      "Giảimãlệnhđơngiản",
+      "Thựchiệnkỹthuậtđườngống(pipeline)liêntục",
+      "Kỹthuậtthâmnhậpbộnhớliêntục"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "Đểđápứngyêucầukhắtkhevàđadạngcủacáchệthốngnhúng,bộ xửlýARMCortexđượcchiathành",
+    "options": [
+      "2dòng(TậplệnhThumbvàTậplệnhARM)",
+      "3dòng(Application,Real-Time,Microcontroller)",
+      "4dòng(Smartphone,Harddisk,DigitalTV&SetTopBox, Microcontroller)",
+      "Khôngđápánnàođúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "LệnhviếtchươngtrìnhCvớitậplệnhTHUMBlà:",
+    "options": [
+      "intARM_FUNCTION(intmy_var)__ARM",
+      "intTHUMB.FUNCTION(intmy_var)__THUMB",
+      "intTHUMB_FUNCTION(intmy_var)__THUMB",
+      "intTHUMB-FUNCTION(intmy_var)__THUMB"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "ChứcnăngcủaMEMORYACELARATERMODULE(MAM)",
+    "options": [
+      "MAMđượctạoranhưlàmộtcachetrunggiangiữaCPUvàbộnhớchính (RAM)",
+      "MAMđượctạoranhưlàmộtcacheđầyđủchophépCPUdễdàngtruy cậptrựctiếpvàoFLASH",
+      "MAMlàbộdịchchuyển",
+      "MAMlàkhốisốhọcvàlogic"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "ƯuđiểmcủatậplệnhTHUMB",
+    "options": [
+      "TậplệnhTHUMBchogiátrịkếtquảthấphơntậplệnhARMnhưngmà các kếtquảnàychiếmmộttỷlệlớnhơn",
+      "TậplệnhTHUMBtiếtkiệmđượckhônggiannhớ30%vànhanhhơn40% sovớitậplệnhARM",
+      "TậplệnhTHUMBkhôngcóđiềukiệnthựcthitrừcáclệnhrẽ nhánh",
+      "Cả3đápántrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "VịtrícủaMEMORYACELARATERMODULE(MAM)trên ARM",
+    "options": [
+      "NằmgiữaSignextendvàInstructiondecoder",
+      "NằmgiữaSignextendvàregisterfileR0-R15",
+      "NằmgiữabộnhớFlashvàCPUARM",
+      "NằmgiữaALUvàCPU"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "VòngkhóaphaPLL(PhaseLockedLoop)trongARMcótácdụnggì?",
+    "options": [
+      "Làmộthệthốngkiểmsoáttầnsốkhépkín,tạotầnsốlàmviệcchoARM từmộttầnsốdaođộngngoài",
+      "Dùngtínhiệuhồitiếpđểkhóatầnsốvàphacủatínhiệuratheotầnsốvà phacủatínhiệuvào",
+      "Chophéphệthốngthiếtbịđiềuchỉnhtheotốcđộthựcthiđểduytrìnguồn nănglượngkhiởtrạngtháirảnhrỗi.",
+      "Tấtcảcácđápántrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "PICviếttắtlàgì?",
+    "options": [
+      "ProgrammableIntelligentComputer",
+      "ProgrammableIntelligentController",
+      "PeripheralInterfaceComputer",
+      "ProgramableInterfaceController"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "ViđiềukhiểnPICcóthêmchư“A”ởcuốiđượcgọilà gì?",
+    "options": [
+      "PICEPROM",
+      "PICFlash",
+      "PICEEPROM",
+      "PICPlash"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "LFlàkíhiệucủa?",
+    "options": [
+      "PICcóbộnhớflashhoạtđộngởđiệnápthấp",
+      "PICcóbộnhớEPROMhoạtđộngởđiệnápthấp",
+      "PICcóbộnhớflash",
+      "Cả3đápántrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "PICnàolàPICcóđộdàilệnh16bít?",
+    "options": [
+      "PIC12xxxx",
+      "PIC16xxxx",
+      "PIC18xxxx",
+      "PIC24xxxx"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "ĐặctínhcủaPIClàgì?",
+    "options": [
+      "KiếntrúctậplệnhRISC",
+      "KiếntrúctậplệnhCISC",
+      "KiếntrúcVon-Neuman",
+      "Tấtcảcácđápánđềuđúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "ĐặctínhcủaPIClàgì?",
+    "options": [
+      "DSPnhữngtínhnăngxửlýtínhiệusố(dsPIC)",
+      "KhônghỗtrợgiaotiếpUSB",
+      "DSPkhôngcótínhnăngxửlýtínhiệusố(dsPIC)",
+      "KhônghỗtrợgiaotiếpDNA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "2kiếntrúccủaPiclàgì?",
+    "options": [
+      "HavardvàVonNeuman",
+      "HavardvàNeuton",
+      "VonNeumanvàNeuton",
+      "VonNeumanvàEPPROM"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "KíhiệuPIC18xxxxlàgì?",
+    "options": [
+      "Độdàilệnh16bit",
+      "Độdàilệnh18bit",
+      "HệvixửlýPIC16bit",
+      "HệvixửlýPIC18bit"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "BộnhớchươngtrìnhFlashcủaPIC16F887códunglượng là:",
+    "options": [
+      "4K",
+      "368",
+      "2K",
+      "8K"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "BộnhớRAMcủaPIC16F887códunglượng là:",
+    "options": [
+      "256Byte",
+      "368Byte",
+      "2KByte",
+      "512Byte"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "BộnhớEepromcủaPIC16F887códunglượng là:",
+    "options": [
+      "256Byte",
+      "368Byte",
+      "8Kbyte",
+      "512Byte"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "PIC16F887cóbaonhiêuport:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 0
+  }
+]

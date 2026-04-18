@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "question": "Môn học Kỹ thuật Vi xử lý là nghiên cứu về:",
+    "options": [
+      "Kiến trúc máy tính",
+      "Vi điều khiển",
+      "Chip vi xử lý",
+      "Tất cả các đáp án trên"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 2,
+    "question": "Bộ vi xử lý là:",
+    "options": [
+      "Hệ thống các vi mạch tương tự hoạt động theo chương trình",
+      "Là một vi mạch tương tự hoạt động theo chương trình",
+      "Hệ thống các vi mạch số hoạt động theo chương trình",
+      "Là một vi mạch số hoạt động theo chương trình"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 3,
+    "question": "Một bộ vi xử lý ngày nay có thể coi là:",
+    "options": [
+      "1 vi mạch tổ hợp cỡ lớn",
+      "1 máy tính cỡ nhỏ",
+      "1 bộ điều khiển",
+      "1 bộ xử lý số học"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Các máy tính chúng ta đang dùng ngày nay là máy tính thế hệ nào?",
+    "options": [
+      "Thế hệ 3",
+      "Thế hệ 4",
+      "Thế hệ 5",
+      "Thế hệ 6"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "Thiết bị dùng để tính toán đầu tiên mà trong đó giá trị theo vị trí đã được sử dụng, góp phần cho sự ra đời của máy tính ngày nay?",
+    "options": [
+      "Bàn tính Abaci",
+      "Casio FX-500",
+      "Ipad",
+      "Máy tính điện tử"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "Trong lịch sử phát triển các bộ vi xử lý, lập trình viên đầu tiên là ai?",
+    "options": [
+      "Charles Babbage",
+      "Blaise Pascal",
+      "Ada Augusta King",
+      "John Mauchly"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "Máy tính ngày nay đang dùng là loại nào trong các loại sau:",
+    "options": [
+      "Discrete transistor",
+      "Very-large-scale integration",
+      "Integrated circuit",
+      "Vacuum Tubes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Theo em lịch sử phát triển các bộ vi xử lý được phân thành các thế hệ, giai đoạn dựa trên các mốc phát triển của:",
+    "options": [
+      "Công nghệ chế tạo",
+      "Công nghệ tin học",
+      "Sự giảm kích thước chip vi xử lý",
+      "Sự tăng tốc độ xử lý"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "Kích thước của một hệ vi xử lý phụ thuộc vào:",
+    "options": [
+      "Dung lượng bộ nhớ của hệ vi xử lý",
+      "Công nghệ chế tạo vi xử lý",
+      "Số bit địa chỉ mà nó sử dụng",
+      "Số bit dữ liệu mà nó sử dụng"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "Vi xử lý máy tính là vi xử lý loại:",
+    "options": [
+      "Đa năng",
+      "DSP",
+      "Vi điều khiển",
+      "ASIP"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "Trong phân loại các bộ vi xử lý theo tập lệnh, RISC là VXL có:",
+    "options": [
+      "Nhiều lệnh",
+      "Các lệnh có độ dài khác nhau",
+      "Tập lệnh phức tạp",
+      "Cấu trúc VXL đơn giản, nhiều thanh ghi"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 12,
+    "question": "Trong phân loại vi xử lý theo tập lệnh, CISC là bộ VXL có:",
+    "options": [
+      "Tập lệnh rút gọn",
+      "Cấu trúc VXL đơn giản, nhiều thanh ghi",
+      "Ít lệnh",
+      "Các lệnh có độ dài bằng nhau"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "Kiến trúc RISC có những đặc điểm gì:",
+    "options": [
+      "Chuyển độ phức tạp từ phần cứng sang phần mềm",
+      "Đơn giản trong việc thiết kế chip",
+      "Tốc độ cao",
+      "Cả 3 ý trên"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 14,
+    "question": "Kiến trúc CISC có những đặc điểm gì:",
+    "options": [
+      "Chuyển độ phức tạp từ phần mềm sang phần cứng",
+      "Đơn giản trong việc thiết kế chip",
+      "Tốc độ cao",
+      "Dễ thiết kế cấu trúc đường ống (pipelining)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "Sử dụng số nhị phân cho hệ vi xử lý máy tính vì:",
+    "options": [
+      "Dễ dùng",
+      "Đơn giản",
+      "Dễ tính toán",
+      "Biểu diễn ngắn gọn"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "Tại sao không chế tạo máy tính trên nền tảng hệ 10, hệ số chúng ta rất quen thuộc, cả thế giới đều dùng, mà lại chế tạo máy tính hệ 2?",
+    "options": [
+      "Dễ dùng",
+      "Chế tạo đơn giản",
+      "Dễ tính toán",
+      "Biểu diễn ngắn gọn"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Một chữ số hệ 10, ví dụ 99, khi chuyển sang hệ 2 là thành dãy số 7 chữ số, là rất dài? Tại sao lại chế tạo máy tính dựa trên hệ 2?",
+    "options": [
+      "Dễ dùng",
+      "Dễ chế tạo",
+      "Dễ tính toán",
+      "Biểu diễn ngắn gọn"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "Hệ cơ số nào được dùng để lưu trữ, biểu diễn dữ liệu, trong một hệ vi xử lý?",
+    "options": [
+      "Hệ cơ số 10",
+      "Hệ cơ số 2",
+      "Hệ cơ số 16",
+      "Hệ cơ số 8"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "Khi thiết kế phần cứng, người ta hay dùng hệ cơ số nào?",
+    "options": [
+      "Hệ cơ số 10",
+      "Hệ cơ số 2",
+      "Hệ cơ số 16 (Hexadecimal)",
+      "Hệ cơ số 8"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "Dung lượng của một thanh ghi, bộ nhớ hay một dữ liệu trong vi xử lý được đo bằng:",
+    "options": [
+      "Byte",
+      "Bit",
+      "Word",
+      "Cả bit và byte"
+    ],
+    "correctAnswer": 3
+  }
+]

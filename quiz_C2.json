@@ -1,0 +1,2015 @@
+[
+  {
+    "id": 1,
+    "question": "Tổhợpnàodiễntảđúngnhấtvềcấutrúcmộthệvixửlý gồm:",
+    "options": [
+      "CPU,Bộnhớ,mainboard,ổcứng",
+      "CPU,RAM,Thiếtbịngoạivi",
+      "CPU,Bộnhớtrong,phốighépIO,cácthiếtbịngoại vi",
+      "CPU,ROM,RAM,ổcứng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "Thànhphầnnàokhôngthểthiếuđểhệvixửlýhoạtđộng được?",
+    "options": [
+      "CPU,ổcứng",
+      "CPU,ROM",
+      "CPU,RAM",
+      "CPU,ROM,RAM"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "Nguyênlíhoạtđộngcủahệvixửlílàgì?",
+    "options": [
+      "Làmviệctheolệnhđiềukhiểntừngườidùng",
+      "Nhânlệnhtừngườisửdụng,xửlýlệnh,vàxuấtrangoạivi",
+      "Dữliệu đượcđưavàotừthiếtbịvào(Inputdevice),hệthốngsẽxửlýdữliệuvàxuấtra thiếtbịra(outputdevice)",
+      "Làmviệctheochươngtrìnhđượclậpsẵn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "Nguyênlíhoạtđộngcủahệvixửlílàgì?",
+    "options": [
+      "ThựchiệnchươngtrìnhtrongROM",
+      "ThựchiệnchươngtrìnhtrongRAM",
+      "Thựchiệnchươngtrìnhtrongổcứng",
+      "Cảbađápánkiađềuđúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Nguyênlíhoạtđộngcủahệvixửlílàgì?",
+    "options": [
+      "Ngườisửdụngđưalệnhvàotừthiếtbịngoạivi,hệvixửlýsẽxửlývà thực hiệnlệnh",
+      "ChươngtrìnhthựcthicầnđượcnạpsẵnvàotrongROMvàthiếtbịngoại vi",
+      "LàmviệctheochươngtrìnhchứasẵntrongRAM",
+      "Cảbađápánkiađềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "Cácchươngtrìnhlậpsẵncủahệvixửlýđượclưuở đâu?",
+    "options": [
+      "TrongROM,RAM",
+      "TrongRAM,Cache",
+      "TrongROM,ỔCứng",
+      "TrongRAM,ỔCứng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "Chứcnăng,nhiệmvụcủamộthệvixửlýlà:",
+    "options": [
+      "Thựchiệnchươngtrình",
+      "TruycậpbộnhớtrựctiếpDMA",
+      "Ngắtvàxửlýngắt",
+      "Cảbađápánkiađềuđúng."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "NhiệmvụchínhcủaCPUlà:",
+    "options": [
+      "Điềuhànhhoạtđộngcủatoànhệthốngtheoýđịnhcủangườisử dụng",
+      "Thihànhchươngtrìnhtheovòngkíngọilàchukỳlệnh.",
+      "Giaotiếpvớicácthiếtbịxuấtnhập.",
+      "Thựchiệnlệnhchươngtrình."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "CPUthựchiệnchươngtrìnhởđâu?",
+    "options": [
+      "ỔCứng",
+      "RAM",
+      "ROM",
+      "Cảbađápánkiađềuđúng."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "Chươngtrình,dữliệutrongquátrìnhhoạtđộngcủahệvixửlýđược chứaởđâu?",
+    "options": [
+      "ROM",
+      "RAM",
+      "CPU",
+      "Cảbađápánđềuđúng."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "Chươngtrìnhđầutiênđượcchạytronghệmáytínhlàchươngtrình gì?",
+    "options": [
+      "ChươngtrìnhtrongROM.",
+      "Chươngtrìnhkhởiđộngcủahệđiềuhành",
+      "Chươngtrìnhkhởiđộngổđĩa",
+      "Cảbađápánđềusai."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "Tronghệvixửlý,chươngtrìnhchữasẵnởđâu?",
+    "options": [
+      "ROM",
+      "HDD(ổcứng).",
+      "CD",
+      "Cảbađápánđềuđúng."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "Tronghệvixửlý,chươngtrìnhkhôngthểchữasẵnở đâu?",
+    "options": [
+      "ROM",
+      "RAM",
+      "HDD(ổcứng).",
+      "CD."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "Chươngtrìnhvàdữliệumuốnthựcthithìphảinạpvào",
+    "options": [
+      "RAM",
+      "ROM",
+      "ổcứng.",
+      "Bộnhớtrong"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "Bộnhớchínhcủamộthệvixửlýlà?",
+    "options": [
+      "ROM,",
+      "RAM.",
+      "ROMvàRAM.",
+      "Bộnhớtrong"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "ChọnphátbiểuSai?",
+    "options": [
+      "DùngRAMlàmbộnhớchínhvìRAMkhôngbịmấtdữliệukhimất nguồn điện.",
+      "DùngRAMlàmbộnhớchínhvìRAMbịmấtdữliệukhimấtnguồnđiện.",
+      "DùngROMlàmbộnhớchínhvìROMcóthểchứacảchươngtrìnhvận hànhcủanhàsảnxuất",
+      "DùngROMlàmbộnhớchínhvìROMlàbộnhớchỉđọc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "Bộnhớtronglà?",
+    "options": [
+      "ROM",
+      "RAM.",
+      "ROMvàRAM.",
+      "HDD(ổcứng)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "Bộnhớngoàilà?",
+    "options": [
+      "ROM",
+      "RAM.",
+      "ROMvàRAM.",
+      "HDD(ổcứng)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "ROMlàbộnhớ?",
+    "options": [
+      "ROMchỉđọcramàkhôngghiđượcvào.",
+      "ROMvừađọcvừaghi.",
+      "ROMkhôngđọcrađược.",
+      "ROMkhôngghivàođược."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "RAMdùngđểlàmgì?",
+    "options": [
+      "RAMdùngđểchứachươngtrìnhlậpsẵn,chươngtrìnhcài đặt",
+      "RAMchứachươngtrìnhlậpsẵncủanhàsảnxuấtmáy tính",
+      "RAMchứachươngtrìnhtronglúcthựcthi",
+      "Cảbađápánđềusai."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "ROMlàloạibộnhớbándẫncóđặctính:",
+    "options": [
+      "ChophépđọcdữliệutừROM,khôngchophépghidữliệuvàoROM,mất dữliệukhimấtnguồnđiện.",
+      "ChophépđọcdữliệutừROM,khôngchophépghidữliệuvàoROM, không mấtdữliệukhimấtnguồnđiện.",
+      "ChophépđọcdữliệutừROM,chophépghidữliệuvàoROM,mấtdữ liệu khimấtnguồnđiện.",
+      "ChophépđọcdữliệutừROM,chophépghidữliệuvàoROM,khôngmất dữliệukhimấtnguồnđiện."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "RAMlàloạibộnhớbándẫncóđặctính:",
+    "options": [
+      "ChophépđọcdữliệutừRAM,khôngchophépghidữliệuvàoRAM,mất dữliệukhimấtnguồnđiện.",
+      "ChophépđọcdữliệutừRAM,khôngchophépghidữliệuvàoRAM, không mấtdữliệukhimấtnguồnđiện.",
+      "ChophépđọcdữliệutừRAM,chophépghidữliệuvàoRAM,mấtdữliệu khimấtnguồnđiện.",
+      "ChophépđọcdữliệutừRAM,chophépghidữliệuvàoRAM,khôngmất dữliệukhimấtnguồnđiện"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "TronghệVXLcóloạtbusnào?",
+    "options": [
+      "Busđiềukhiển.",
+      "Busđịachỉ",
+      "Busdữliệu.",
+      "Cảbađápántrên."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "TronghệVXLbusđiềukhiểndùngđểlàmgì?",
+    "options": [
+      "Lấycáclệnhđểthựchiện.",
+      "Truyềndữliệuvớivixửlí.",
+      "Lấyđịachỉvào.",
+      "Xácđịnhcácchếđộhoạtđộngcủahệthống."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "TronghệVXLbusđiềukhiểndùngđểlàmgì?",
+    "options": [
+      "Điềukhiểnbus.",
+      "ĐiềukhiểnCPU",
+      "Điềukhiểnhệthống",
+      "Cảbađápánkia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "BUSdùngđểlàmgì?",
+    "options": [
+      "ChuyểnđiềukhiểnđếnchươngtrìnhBIOS(đểchạy).",
+      "Lànơilưutrữdữliệucủahệthống.",
+      "Làcácnhómđườngtínhiệucócùngchúcnăngcủahệvixử lý.",
+      "LàdâykếtnốithiếtbịngoạivivớiCPU."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "Tronghệthốngbuscủamáytính,loạibusnàolàbus2 chiều:",
+    "options": [
+      "Busdữliệu.",
+      "Busđịachỉ.",
+      "Busđiềukhiển.",
+      "Cảbacâukiađềuđúng."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "Tronghệthốngbuscủamáytính,busđịachỉcóchiềudichuyểnthông tinđịachỉđitừ:",
+    "options": [
+      "TừCPUđếnbộnhớvàthiếtbịngoạivi.",
+      "TừbộnhớvàthiếtbịngoạiviđếnCPU.",
+      "Cảhaiphátbiểuđềuđúng.",
+      "Cảhaiphátbiểuđềusai."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "Tronghệthốngbuscủamáytính,busdữliệucóchiềudichuyểnthông tindữliệuđitừ:",
+    "options": [
+      "TừCPUđếnbộnhớvàthiếtbịngoạivi.",
+      "TừbộnhớvàthiếtbịngoạiviđếnCPU.",
+      "Cảhaicâuavàbđềuđúng.",
+      "Cảhaicâuavàbđềusai."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "8086đượccấpxungđồnghồtừ?",
+    "options": [
+      "Nguồnđồnghồbênngoài.",
+      "Tựđồngbộ.",
+      "Nguồnđồnghồtừmộtbộvixửlíkhác.",
+      "Cảbađềusai."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "Nóivixửlý32bítcónghĩalà:",
+    "options": [
+      "Vixửlýcócácthanhghi32bít",
+      "Vixửlýxửlýxửlýkhốidữliệu32bít",
+      "Busdữliệu32bít",
+      "Tấtcảcácđápánkiađềuđúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "VXL8086cóthểquảnlíđược?",
+    "options": [
+      "16KBbộnhớ",
+      "64KBbộnhớ",
+      "1MBbộnhớ",
+      "16MBbộnhớ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "Đơnvịnàoquảnlíviệcnhậpxuấtđịachỉ,đọcghibộnhớ?",
+    "options": [
+      "EU.",
+      "CU.",
+      "BIU.",
+      "CPU."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "Bảnchấtcủađọclệnhlàgì?",
+    "options": [
+      "Đọcbộnhớ.",
+      "Đọcchươngtrình.",
+      "Đọcmãlệnh.",
+      "Thựchiệnlệnh."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "HạnchếcủaRAMtronghệthốnglàgì?",
+    "options": [
+      "Khôngchứađượcnhiềudữliệu.",
+      "Khôngchứađượccácchườngtrìnhđangchạycùngmột lúc.",
+      "Bịmấtdữliệunếubịmấtnguồnđiện.",
+      "cảbađápánđềuđúng."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "Toànbộdữliệuvàchươngtrìnhcủahệvixửlýmuốnthựcthicần được nạpvào?",
+    "options": [
+      "ROM",
+      "Thẻnhớ",
+      "Ổcứng",
+      "RAM"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "Trongkhimáytínhhoạtđộng,bộphậnnàodướiđâysẽgiữquyềnchủ độngtrongtraođổidữliệu?",
+    "options": [
+      "ỔCứng",
+      "ROM",
+      "RAM",
+      "CPU"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "Cácthiếtbịngoạivigiaotiếpvớihệvixửlýthông qua",
+    "options": [
+      "Khốiphốighépvàora",
+      "Busdữliệu",
+      "Busđiềukhiển",
+      "Busđịachỉ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "BộnhớchínhcủaViXửLýdungđểlàmgì?",
+    "options": [
+      "Lưutrữảnh,video",
+      "Lưutrữchươngtrìnhđangthựchiện",
+      "Lưudữliệuquantrọng",
+      "Lưutrữảnhvàfile"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "ROMlàbộnhớdùngđểlàmgì?",
+    "options": [
+      "Chứahệđiềuhành",
+      "Lưutrữdữliệuquantrọng",
+      "Chứacácchươngtrìnhcủanhàsảnxuấtvàngườidùngthườngkhôngthay đổiđược",
+      "Chứachươngtrìnhđangthựchiện"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "Cáclệnhvàdữliệucủachươngtrìnhđangthựchiệnđượclưutrên đâu?",
+    "options": [
+      "ROM",
+      "RAM",
+      "Ổcứng",
+      "ĐĩaCD"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "ChứcnăngcủakhốiIOlàgì?",
+    "options": [
+      "LàđơnvịgiaotiếpgiữabộnhớtrongvàCPU",
+      "LàđơnvịgiaotiếpgiữahệViXửLývớicácthiếtbịngoạivinhưlàUSB, chuột,bànphím,",
+      "máyin,…",
+      "Làđơnvịgiaotiếpgiữaconngườivớiconngười"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "CáckhôiCPU,khốibộnhớchínhvàkhốiIOcủahệVixửlýliênhệ với nhauthôngquahệthốnggì?",
+    "options": [
+      "HệthốngBUS",
+      "Chuột",
+      "Bànphím",
+      "Hệthốngmạng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "Đốitượngnàoquảnlýchươngtrìnhứngdụng?",
+    "options": [
+      "ROMvàRAM",
+      "Ổcứng",
+      "Hệđiềuhành",
+      "CPU"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "Mộtbộvixửlýcó20đườngdâyđịachỉ.Chobiếtsốlượngvịtrínhớ màbộVixửlý đócókhảnăngtruyxuất:",
+    "options": [
+      "1024",
+      "1024k",
+      "1024M",
+      "1024G"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "Busđịachỉcủamộthệvixửlýlà32đường.Chọnphátbiểusai",
+    "options": [
+      "Quảnlývàtruycậpđượccácổlogiccódunglượngtốiđa4GB,nêncần chiaổ cứngvậtlýthànhcácổlogiccódunglượngnhỏhơnvàbằng4GB.",
+      "Địa chỉđượccủa232địachỉ",
+      "32đườngđịachỉtrỏtới32thiếtbị",
+      "Quảnlýđượcbộnhớcódunglượng4GB"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "Busđịachỉcủamộthệvixửlýlànđường.Chọnphátbiểu Sai",
+    "options": [
+      "nbítđịachỉđượcvậnchuyểnđồngthời",
+      "nđịachỉ.",
+      "2nđịachỉ",
+      "Giátrịđịachỉcóthểxuấtranhỏhơn2n"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "Busdữliệucủahệvixửlý8086cókíchthước",
+    "options": [
+      "8bít",
+      "10bít",
+      "16bít",
+      "20bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "BộVXL32bít8486làbộVXLcó",
+    "options": [
+      "32thanhghi",
+      "32đườngbusđịachỉ",
+      "32đườngbusdữliệu",
+      "Cácthanhghi32bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "Thuậtngữ“Bộvixửlý16bit”cónghĩalà:",
+    "options": [
+      "Bộvixửlýđócó16bit.",
+      "Bộvixửlýđócóthểxửlýđược1word(16bits)trong1chukỳlệnh.",
+      "Bộvixửlýđócó16đườngđịachỉ.",
+      "a,b,cđềuđúng."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "Vixửlýlànơi:",
+    "options": [
+      "Chứamãlệnh",
+      "Giảimãcáccâulệnh",
+      "Vàoradữliệu",
+      "Giảimãvàthựchiệnlệnh."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 52,
+    "question": "CPUlàmthếnàođểnhậnlệnh(instructionfetch):",
+    "options": [
+      "LệnhtiếptheođượclưutrữtrongthanhghiIR",
+      "LệnhtiếptheođượclưutrữtrongthanhghiIP",
+      "ĐịachỉcủalệnhtiếptheođượclưutrữtrongthanhghiIR(Instruction Register)",
+      "ĐịachỉcủalệnhtiếptheođượclưutrữtrongthanhghiIP(Instruction Pointer)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 53,
+    "question": "Hệvixửlý16bít8086quảnlýđượcbộnhớcódung lượng:",
+    "options": [
+      "1Mb",
+      "1Kb",
+      "1byte",
+      "20byte"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 54,
+    "question": "Hệvixửlý8086quảnlýphânđoạnbộnhớcódunglượnglàbao nhiêu?",
+    "options": [
+      "128byte",
+      "64KB",
+      "1MB",
+      "64MB"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 55,
+    "question": "DunglượngtốiđacủaRAMcóthểcắmtrênmainboardcủamáytính phụthuộcvào:",
+    "options": [
+      "SốđườngđịachỉcủaCPU.",
+      "SốđườngđịachỉcủaCPUvàcáchquảnlýđịachỉcủa CPU.",
+      "SốlượngkhecắmRAMcóởtrênmain.",
+      "KhônggianđịachỉđãđượcđịnhsẵndànhchoRAM. 2.1.2"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 56,
+    "question": "Trongcácbộphậnsau,bộphậnnàokhôngthuộcbộxửlýtrungtâm:",
+    "options": [
+      "Đơnvịphốighépvàora",
+      "Khốisốhọcvàlogic",
+      "Tậpcácthanhghiđanăng",
+      "Khốiđiềukhiển."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "Trongcácbộphậnsau,bộphậnnàokhôngthuộcbộxửlýtrungtâm:",
+    "options": [
+      "Bộnhớtrong",
+      "Khốisốhọcvàlogic",
+      "Tậpcácthanhghiđanăng",
+      "Khốiđiềukhiểnđểthihànhlệnhmộtcáchtuầntựvàtácđộnglêncác mạch chứcnăngnhằmthihànhlệnh."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "Trongcácbộphậnsau,bộphậnnàothuộcbộxửlýtrungtâm:",
+    "options": [
+      "Bộnhớtrong",
+      "Đơnvịphốighépvàora",
+      "Tậpcácthanhghiđanăng",
+      "KhốiđiềukhiểnBushệthống."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "question": "Hệvixửlýthựchiệnlệnhtheotuầntựnào?",
+    "options": [
+      "Đọcmãlệnh–Giảimãlệnh–Thựchiệnlệnh",
+      "Giảimãlệnh–Đọcmãlệnh–Thựchiệnlệnh",
+      "Thựchiệnlệnh–Đọcmãlệnh–Giảimãlệnh",
+      "Thựchiệnlệnh–Giảimãlệnh–Đọcmãlệnh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "Dữliệuvàtrạngtháicủaquátrìnhthựchiệnlệnhđượclưuởđâu",
+    "options": [
+      "RAM",
+      "ROM",
+      "Ổđĩacứng",
+      "Cácthanhghi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 61,
+    "question": "TrongbộVXL8086,cácthanhghiđanăng:",
+    "options": [
+      "PhảnánhtrạngtháicủaCPU",
+      "Chứađịachỉđầucủacácđoạnnhớtrongbộnhớ",
+      "Thườngchứađịachỉlệnhcủacácônhớtrongđoạn nhớ.",
+      "Thườngđượcsửdụngnhiềutrongcacphéptoán sốhọc."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 62,
+    "question": "TrongbộVXL8086,bốnthanhghiđoạn:",
+    "options": [
+      "PhảnánhtrạngtháicủaCPU",
+      "Thườngđượcsửdụngnhiềutrongcácđoạnsốhọcvà logic.",
+      "Chứađoạntươngứng",
+      "Chứađịachỉđoạn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 63,
+    "question": "TrongbộVXL8086,cácthanhghicontrỏvàchỉ số:",
+    "options": [
+      "PhảnánhtrạngtháicủaCPU",
+      "Phứađịachỉđầucủacácđoạnnhớtrongbộnhớ",
+      "Thườngchứađịachỉlệch",
+      "Thườngđượcsửdụngnhiềutrongcacphéptoánsốhọc."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 64,
+    "question": "Đâulàcácthanhghilệch?",
+    "options": [
+      "AX,BX,CX,DX.",
+      "CS,DS,SS,ES.",
+      "BP,SP,SI,DI.",
+      "Cảbađápántrên."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 65,
+    "question": "Cácthanhghiđanăngcủa8086cóbaonhiêu bit?",
+    "options": [
+      "4bit",
+      "8bit",
+      "16bit",
+      "32bit."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 66,
+    "question": "Thanhghinàosauđâycóthểchứađịachỉ?",
+    "options": [
+      "Thanhghiđoạnvàthanhghiđanăng",
+      "Thanhghichỉsố",
+      "Thanhghicontrỏ",
+      "Cảbaphátbiểukiađềuđúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 67,
+    "question": "KhixuấtđịachỉthìbêntrongCPUđịachỉcóthểđượcchứaở đâu?",
+    "options": [
+      "Thanhghicờ",
+      "Tấtcảcácthanhghi",
+      "Tấtcảcácthanhghitrừthanhghicờ",
+      "Hàngđợilệnh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 68,
+    "question": "Thanhghiđoạnchứagì?",
+    "options": [
+      "Địachỉđoạn",
+      "Địachỉônhớ",
+      "Địachỉlệch",
+      "Khôngcóđápánđúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 69,
+    "question": "Thanhghicontrỏchứagì?",
+    "options": [
+      "Địachỉlệch",
+      "Địachỉônhớ",
+      "CảAvàBđềuđúng",
+      "CảAvàBđềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 70,
+    "question": "Tronghệvixửlýmáytính,trướckhithựchiệnchươngtrìnhRAM được nạpdữliệuởđâu?",
+    "options": [
+      "ROM",
+      "CD",
+      "Ổcứng",
+      "Cảbađápántrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 71,
+    "question": "Thanhghichuyêndùngđểchứakếtquảphép toán?",
+    "options": [
+      "AX",
+      "BX",
+      "CX",
+      "DX"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 72,
+    "question": "Thanhghinàodùngđểchứasốlầnlặp,quaytrongcáclệnhlặpvà lệnh quay?",
+    "options": [
+      "AX",
+      "BX",
+      "CX",
+      "DX"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 73,
+    "question": "SửdụnglệnhlặpLooptronglậptrình,cóthểthiếtlậpsốlầnlặptốiđa làbaonhiêu?",
+    "options": [
+      "0FFh",
+      "0FFFh",
+      "0FFFFh",
+      "0FFFFFh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 74,
+    "question": "Thanhghiđanăngthườngdùngchứađịachỉcơsở là?",
+    "options": [
+      "AX",
+      "BX",
+      "CX",
+      "DX"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 75,
+    "question": "Thanhghiđoạnchứađịachỉđoạnmãlệnhlà?",
+    "options": [
+      "SS",
+      "ES",
+      "DS",
+      "CS"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 76,
+    "question": "Thanhghiđoạnchứađịachỉđoạndữliệulà?",
+    "options": [
+      "SS",
+      "ES",
+      "DS",
+      "CS"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 77,
+    "question": "Thanhghiđoạnchứađịachỉđoạnngănxếp?",
+    "options": [
+      "SS",
+      "ES",
+      "DS",
+      "CS"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 78,
+    "question": "Thanhghiđoạnchứđịachỉđoạndữliệumởrộng?",
+    "options": [
+      "SS",
+      "ES",
+      "DS",
+      "CS"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 79,
+    "question": "Thanhghicontrỏlệnhlàthanhghinào?",
+    "options": [
+      "IP",
+      "BP",
+      "SP",
+      "IR"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 80,
+    "question": "Thanhghicontrỏngănxếplàthanhghinào?",
+    "options": [
+      "IP",
+      "BP",
+      "SP",
+      "IR"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 81,
+    "question": "Thanhghicontrỏcơsởlàthanhghinào?",
+    "options": [
+      "IP",
+      "BP",
+      "SP",
+      "IR"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 82,
+    "question": "TrongCPUcủavixửlý8086cóbaonhiêuthanhghicon trỏ?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 83,
+    "question": "TrongCPUcủavixửlý8086cóbaonhiêuthanhghi đoạn?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 84,
+    "question": "TrongCPUcủavixửlý8086cóbaonhiêuthanhghiđanăng?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 85,
+    "question": "TrongCPUcủavixửlý8086cótấtcảbaonhiêuthanh ghi?",
+    "options": [
+      "10",
+      "11",
+      "13",
+      "14"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 86,
+    "question": "TrongCPUcủavixửlý8086cótấtcảbaonhiêuloạithanh ghi?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "14"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 87,
+    "question": "Phátbiểunàođúng?",
+    "options": [
+      "4thanhghiđanăng,5thanhghicontrỏvàchỉsố",
+      "4thanhghiđoạn,5thanhghicontrỏvàchỉsố",
+      "4thanhghiđanăng,3thanhghiđoạn,2thanhghicontrỏvàchỉsố,1 thanh ghicờ",
+      "4thanhghiđanăng,4thanhghiđoạn,3thanhghicontrỏvàchỉsố,1 thanh ghicờ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 88,
+    "question": "Khốinàocóchứcnăngđọcmãlệnhtrong8086?",
+    "options": [
+      "ALU",
+      "BIU",
+      "EU",
+      "bvàc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 89,
+    "question": "Khốinàocóchứcnănggiảimãlệnhtrong8086?",
+    "options": [
+      "ALU",
+      "BIU",
+      "EU",
+      "bvàc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 90,
+    "question": "ĐơnvịsốhọcvàALUdùngđểlàmgì?",
+    "options": [
+      "Thựchiệncácphéptoánsốhọc",
+      "Thựchiệncácphéptoánlogic",
+      "Thựchiệnphépquay",
+      "Cảbađápántrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 91,
+    "question": "Mộtphéptínhtoánhọcsẽđượcmáytínhthựchiệnở đâu?",
+    "options": [
+      "CPU",
+      "CácônhớliêntiếptrênRAM",
+      "EU",
+      "ALU"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 92,
+    "question": "Khốinàocóchứcnăngthựchiệnphépnhântrong 8086?",
+    "options": [
+      "ALU",
+      "BIU",
+      "EU",
+      "bvàc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 93,
+    "question": "Khốinàocóchứcnăngthựchiệnphépnhântrong8086",
+    "options": [
+      "BIU",
+      "ALU",
+      "CU",
+      "Pipeline"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 94,
+    "question": "Cóthểlưulại1từdữliệu(16bit)trong:",
+    "options": [
+      "ThanhghiAL",
+      "ThanhghiIP",
+      "ThanhghiCX",
+      "ĐápánAvàB"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 95,
+    "question": "Khithựchiệnphéptínhnhân2sốvớinhauthìbytethấpnhấtcủakết quảsẽđượclưutrongthanhghinào",
+    "options": [
+      "ThanhghiAX",
+      "ThanhghiAL",
+      "ThanhghiDX",
+      "ThanhghichứaDL"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 96,
+    "question": "TrongbộVXL8086,cácthanhghiCS,DS,ES,SSsửdụng để:",
+    "options": [
+      "Chứađịachỉđầucủacácđoạnnhớtrongbộnhớ",
+      "Chứađịachỉlệnhcủacácđoạnnhớtrongbộnhớ",
+      "PhảnánhtrạngtháiCPU",
+      "Đượcsửdụngnhiềutrongcácphéptoánhọcvàlogic"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 97,
+    "question": "Cờzero(ZF)đượclậplên1khi",
+    "options": [
+      "Kếtquảcácphéptínhbằng0",
+      "Kếtquảcácphéptínhkhác0",
+      "Kếtquảcácphéptínhlớnhơn0",
+      "kếtquảcácphéptínhbằng1"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 98,
+    "question": "ContrỏIP:",
+    "options": [
+      "ChứalệnhtiếptheotrongđoạnmãlệnhCS",
+      "ChứađịachỉlệnhtiếptheotrongđoạnmãlệnhCS",
+      "ChứađịachỉcủadữliệutrongđoạnngănxếpSS",
+      "ChứađịachỉdữliệunguồntrongđoạndữliệuDS"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 99,
+    "question": "Trongthanhghicờcóbaonhiêubit,cácbitđượcsửdụngnhưthếnào ?",
+    "options": [
+      "18bit,9bitđượcsửdụng,6bítcờphảnánhtrạngtháithựchiệnlệnhcủa CPU.",
+      "16bit,9bítđượcsửdụng,6bitcờphảnánhtrạngtháithựchiệnlệnhcủa CPU",
+      "16bit,8bítđượcsửdụng,6bitcờphảnánhtrạngtháithựchiệnlệnhcủa CPU.",
+      "32bit,16bítđượcsửdụng,10bitcờphảnánhtrạngtháithựchiệnlệnh của CPU"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 100,
+    "question": "Chọnnhómbaogồmthanhghisẽđượcsửdụngđểthựchiệnlệnhmột lệnhsốhọchoăclogic:",
+    "options": [
+      "SI,DI,IPvàSP,BP,FLAGS",
+      "CS,DS,ES,SSvàSI,BP,DI",
+      "CS,DS,ES,SS,vàAX,BX,CX,FLAG",
+      "CS,DS,ES,SSvàIP,FLAGS"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 101,
+    "question": "ĐịachỉSEGMENTcủa1ônhớđượcquanniệmlà:",
+    "options": [
+      "Địachỉlệchtrongđoạnchứaônhớ",
+      "Địachỉvậtlýcủaônhớ",
+      "Địachỉcủa1đoạnchứaônhớ",
+      "Địachỉlogiccủa1ônhớ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 102,
+    "question": "CặpSEGMENT:OFFSETcủa1bộnhớđượcquanniệmlà:",
+    "options": [
+      "ĐịachỉLOGICcủa1ônhớ",
+      "Địachỉ1đoạnônhớ",
+      "Địachỉlệchtrongđoạnchứaônhớ",
+      "Địachỉvậtlýcủa1ônhớ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 103,
+    "question": "Địachỉvậtlíđượctínhbằng:",
+    "options": [
+      "Địachỉvậtlí=Địachỉđoạn+địachỉlệnh",
+      "Địachỉvậtlí=Địachỉlệnh*16+địachỉđoạn",
+      "Địachỉvậtlí=Địachỉđoạn:địachỉlệnh",
+      "Địachỉvậtlí=địachỉđoạn*16+địachỉlệnh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 104,
+    "question": "Tạisaophảixácđịnhđịachỉbằng2thànhphầnSegmentvàOffset?",
+    "options": [
+      "1MBbộnhớđượcquảnlývàđánhđịachỉthốngnhấttừđầuđếncuối.",
+      "Tạoranhiềuchếđộđịachỉhơn",
+      "Vìbusđịachỉlà20bíttrongkhicácthanhghi8086làcácthanhghi16 bít",
+      "Cả3đápántrênđềuđúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 105,
+    "question": "Trong4chếđộđịachỉsau,chếđộnàokhôngthaotácvớiônhớ?",
+    "options": [
+      "Chếđộđịachỉthanhghi",
+      "Chếđộtươngđốichỉsố",
+      "Chếđộđịachỉtươngđốicơsở",
+      "Chếđộđịachỉtứcthì"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 106,
+    "question": "Trongvixửlý8086,cặpthanhghinàoquảnlýhoạtđộngtruycập STACK?",
+    "options": [
+      "SS:SP",
+      "CS:IP",
+      "BP:SP",
+      "DS:SI"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 107,
+    "question": "Kếtquảcủaphépchia:256/5đượcchứaởđâu?",
+    "options": [
+      "AH",
+      "AL",
+      "DX",
+      "AHvàAL"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 108,
+    "question": "Cờnàođượcthiếtlậpsauđoạnlệnhsau: MOVAL,01H RCRAL,1",
+    "options": [
+      "ZF",
+      "CF",
+      "OF",
+      "IF"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 109,
+    "question": "GiảsửtrongAXchứasố261,khiđọcAHthìđượcgiátrịlàbao nhiêu?",
+    "options": [
+      "255",
+      "1",
+      "6",
+      "5"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 110,
+    "question": "ThanhghinàochứađịachỉtrongcáclệnhIN, OUT?",
+    "options": [
+      "AL",
+      "AX",
+      "DL",
+      "DX"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 111,
+    "question": "AXcóthểthaythếBXđượckhông?",
+    "options": [
+      "Có,trong1sốtrườnghợp",
+      "Có",
+      "Không",
+      "Cónhưngchỉtrongcácphéptoánnhân,chia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 112,
+    "question": "Thanhghinàocóthểchứađịachỉcủacổngtrongcáclệnh vào/ra?",
+    "options": [
+      "CS",
+      "DX",
+      "AX",
+      "a,b,cđềusai"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 113,
+    "question": "Trongquảnlýbộnhớcủa8086,saubaonhiêubytethìcóthểđánhđịa chỉđoạn?",
+    "options": [
+      "64Kbyte",
+      "16Byte",
+      "256Byte",
+      "Đápánkhác"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 114,
+    "question": "Địachỉvậtlýtronghệvixửlý8086/8088cóbaonhiêu bít?",
+    "options": [
+      "20bít",
+      "32bít",
+      "16bít",
+      "8bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 115,
+    "question": "Khicóhàngđợilệnhchươngtrìnhsẽthựchiệnnhanhhơndo?",
+    "options": [
+      "Khôngmấtchùkỳlấylệnhtừbộnhớ.",
+      "Quátrìnhthựchiệnlệnhdiễnranhanhhơn",
+      "Quátrìnhlấylệnhdiễnranhanhhơn",
+      "Quátrìnhnhậnlệnhthựchiệnđồngthờivớiquátrìnhthựchiệnlệnh."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 116,
+    "question": "Kỹthuậtpipelinelàgìkỹthuậtgìtrongvixửlý",
+    "options": [
+      "Làkỹthuậtxửlýxenkẽliêntụccácdònglệnh",
+      "LàmộtcảitiếncủaIntelnhằmtăngtốcđộnạplệnh.",
+      "LàmộtcảitiếncủaIntelnhằmtăngkhảnăngl¬ưutrữtrunggiancáclệnh trướckhixửlý.",
+      "Khôngcóýnàotrong3ýtrênđúng."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 117,
+    "question": "Kháiniệmtốcđộvixửlýđượctínhlà",
+    "options": [
+      "Sốthờigianvixửlýđọcmộtbytetrongbộnhớ",
+      "Sốthờigianvixửlýhoànthànhxửlýmộtlệnh",
+      "Sốthờigianvixửlýthựchiệnmộtphéptính",
+      "Cả3ýtrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 118,
+    "question": "Tốcđộcủahệvixửlýcàngcaokhi",
+    "options": [
+      "Bộnhớnóquảnlýcànglớn",
+      "Sốthiếtbịngoạivinóquảnlýcàngnhiều",
+      "Thờigianxửlýmộtlệnhítnhất",
+      "Cả3ýtrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 119,
+    "question": "Tốcđộmộtbộvixửlýcóthểđặctrưngbằngthamsốnàodướiđâylà chínhxácnhất?",
+    "options": [
+      "Tầnsốlàmviệccơbảncủachipvixửlý(Hz)",
+      "Sốtriệulệnhcơbảncóthểhoànthànhtrongmộtgiây(MIPS)",
+      "Dunglượngbộnhớchính",
+      "Cả3đápán."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 120,
+    "question": "Cácbiệnphápgiúptănghiệunăngcủavixửlý",
+    "options": [
+      "Thiếtkếtốiưuphầnmềm",
+      "Tăngsốthiếtbịngoạivi",
+      "Tăngdunglượngbộnhớ",
+      "Cả3ýtrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 121,
+    "question": "Đểđạtđượchiệunăng,tốcđộthựchiệncaonhất,hệvixửlý cần:",
+    "options": [
+      "Chipcótốcđộđủcao,tậplệnhlớn.",
+      "Chipcótốcđộđủcao,ổcứngchươngtrìnhđủlớn",
+      "Chipcótốcđộđủcao,bộnhớchínhđủlớn",
+      "Chipcótậplệnhđủlớn,RAMlớn."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 122,
+    "question": "Tốcđộcủahệvixửlýcàngcaokhi",
+    "options": [
+      "Bộnhớnóquảnlýcànglớn",
+      "Sốthiếtbịngoạivinóquảnlýcàngnhiều",
+      "Thờigianxửlýmộtlệnhítnhất",
+      "Cả3ýtrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 123,
+    "question": "GiảsửtừđiềukhiểnCWR8bítD7D6D5D4D3D2D1D0đểghi vàothanhghiCRcấuhìnhcho8255Alàmviệc.HỏinhiệmvụcủabítD0:",
+    "options": [
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitthấpởcổngC .",
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitcaoởcổngC",
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocổngB",
+      "Lựa chọnchếđộlàmviệclàOutputhoặcInputchocổngA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 124,
+    "question": "GiảsửtừđiềukhiểnCWR8bítD7D6D5D4D3D2D1D0đểghi vàothanhghiCRcấuhìnhcho8255Alàmviệc.HỏinhiệmvụcủabítD1:",
+    "options": [
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitthấpởcổngC .",
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitcaoởcổngC",
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocổngB",
+      "Lựa chọnchếđộlàmviệclàOutputhoặcInputchocổngA Câu 270: Giả sử từ điều khiển CWR 8 bít D7D6D5D4D3D2D1D0đểghi vào thanh ghi CR cấu hình cho 8255A làm vi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 125,
+    "question": "GiảsửtừđiềukhiểnCWR8bítD7D6D5D4D3D2D1D0đểghi vàothanhghiCRcấuhìnhcho8255Alàmviệc.HỏinhiệmvụcủabítD3:",
+    "options": [
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitthấpởcổngC .",
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitcaoởcổngC",
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocổngB",
+      "Lựa chọnchếđộlàmviệclàOutputhoặcInputchocổngA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 126,
+    "question": "GiảsửtừđiềukhiểnCWR8bítD7D6D5D4D3D2D1D0đểghi vàothanhghiCRcấuhìnhcho8255Alàmviệc.HỏinhiệmvụcủabítD4:",
+    "options": [
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitthấpởcổngC .",
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitcaoởcổngC",
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocổngB",
+      "Lựa chọnchếđộlàmviệclàOutputhoặcInputchocổngA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 127,
+    "question": "GiảsửtừđiềukhiểnCWR8bítD7D6D5D4D3D2D1D0đểghi vàothanhghiCRcấuhìnhcho8255Alàmviệc.HỏinhiệmvụcủabítD5:",
+    "options": [
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitthấpởcổngC .",
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitcaoởcổngC",
+      "Lựachọnchếđộlàmviệclà0hoặc1chonhómcổngB",
+      "Lựachọn chếđộlàmviệclà0hoặc1chonhómcổngA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 128,
+    "question": "GiảsửtừđiềukhiểnCWR8bítD7D6D5D4D3D2D1D0đểghi vàothanhghiCRcấuhìnhcho8255Alàmviệc.HỏinhiệmvụcủabítD6:",
+    "options": [
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitthấpởcổngC .",
+      "LựachọnchếđộlàmviệclàOutputhoặcInputchocácbitcaoởcổngC",
+      "Lựachọnchếđộlàmviệclà0hoặc1chonhómcổngB",
+      "Lựachọn chếđộlàmviệclà0hoặc1chonhómcổngA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 129,
+    "question": "Trong8255A,chếđộ0làchếđộ?",
+    "options": [
+      "Giaotiếpvàorađơngiản.",
+      "Giaotiếpvàoracóbắttay",
+      "Giaotiếpvàorasongcông",
+      "GiaotiếpVàorabánsongcông"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 130,
+    "question": "Trong8255A,chếđộ1làchếđộ?",
+    "options": [
+      "Giaotiếpvàorađơngiản.",
+      "Giaotiếpvàoracóbắttay",
+      "Giaotiếpvàorasongcông",
+      "GiaotiếpVàorabánsongcông"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 131,
+    "question": "Trong8255A,chếđộ2làchếđộ?",
+    "options": [
+      "Giaotiếpvàorađơngiản.",
+      "Giaotiếpvàoracóbắttay",
+      "Giaotiếpvàorasongcông",
+      "Khôngcóđápánđúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 132,
+    "question": "ĐểlậpbítPC7=1thìtaphảinạpvàothanhghiCRgiátrị nào?",
+    "options": [
+      "00001111.",
+      "00001101",
+      "00000001",
+      "00001110"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 133,
+    "question": "ĐểxóabítPC7=0thìtaphảinạpvàothanhghiCRgiátrị nào?",
+    "options": [
+      "00001111.",
+      "00001101",
+      "00000001",
+      "00001110"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 134,
+    "question": "ĐểlậpbítPC5=1thìtaphảinạpvàothanhghiCRgiátrị nào?",
+    "options": [
+      "00001111.",
+      "00001011",
+      "00001101",
+      "00001110"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 135,
+    "question": "ĐểxóabítPC6=0thìtaphảinạpvàothanhghiCRgiátrị nào?",
+    "options": [
+      "00001111.",
+      "00001011",
+      "00001100",
+      "00001101"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 136,
+    "question": "Ghi89Hvàothanhghiđiềukhiểncủa8255Athìvimạch này:",
+    "options": [
+      "Hoạtđộngởchếđộ0,cổngClàcổngra",
+      "Hoạtđộngởchếđộ0cáccổngđềulàcổngra",
+      "Hoạtđộngởchếđộ0cáccổngA,Blàcổngra,cổngClàcổngvào",
+      "Hoạtđộngởchếđộ0cáccổngB,Ccóchiềuvào,cổngAcóchiều ra"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 137,
+    "question": "Ghi9BHvàothanhghiđiềukhiểncủa8255Athìvimạch này:",
+    "options": [
+      "Hoạtđộngởchếđộ0,cổngClàcổngra",
+      "Hoạtđộngởchếđộ0cáccổngđềulàcổngvào",
+      "Hoạtđộngởchếđộ0cáccổngA,Blàcổngra,cổngClàcổng vào",
+      "Hoạtđộngởchếđộ0cáccổngB,Clàcổngvào,cổngAlà cổngra"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 138,
+    "question": "Ghi80Hvàothanhghiđiềukhiểncủa8255Athìvi mạchnày:",
+    "options": [
+      "Hoạtđộngởchếđộ0,cổngClàcổngra",
+      "Hoạtđộngởchếđộ0cáccổngđềulàcổngra",
+      "Hoạtđộngởchếđộ0cáccổngA,Blàcổngra,cổngClàcổngvào",
+      "Hoạtđộngởchếđộ0cáccổngB,Ccóchiềuvào,cổngAcóchiều ra"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 139,
+    "question": "GhiBFHvàothanhghiđiềukhiểncủa8255Athìvimạch này:",
+    "options": [
+      "Hoạtđộngởchếđộ1,cổngClàcổngra",
+      "Hoạtđộngởchếđộ1cáccổngđềulàcổngvào",
+      "Hoạtđộngởchếđộ1cáccổngA,Blàcổngra,cổngClàcổng vào",
+      "Hoạtđộngởchếđộ1cáccổngB,Clàcổngvào,cổngAlà cổngra 2.1.3"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 140,
+    "question": "Ngắtlàgì?",
+    "options": [
+      "Là việc tạm dừng việc chương trình chínhđangchạyđểCPUcóthểchạy một chương trình con khác nhằm xử lý một yêu cầu do bên ngoài đưa tới CPU hoặc do chính",
+      "Làviệcchạyhaichươngtrìnhchínhvàchươngtrìnhconcùng nhau",
+      "Làviệckếtthúcchươngtrìnhchínhđểthựchiệnchương trìnhcon",
+      "Khôngcóđápánnàođúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 141,
+    "question": "Mụcđíchcủahoạtđộngngắt?",
+    "options": [
+      "Giánđoạnchươngtrìnhchính",
+      "TănghiệuquảlàmviệccủaCPU.",
+      "Tăngtínhlinhhoạthiệuquảcủahệ",
+      "Cảa,b,cđềusai."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 142,
+    "question": "NgắtcứngtừbênngoàiđượcCPUnhậnbiếtqua:",
+    "options": [
+      "ChânINTR.",
+      "ChânRESET",
+      "Busdữliệu",
+      "Chân/INTA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 143,
+    "question": "Yêucầungắtngoàikhôngcheđược,đượcCPUnhậnbiếtquachân?",
+    "options": [
+      "ChânINTR.",
+      "ChânRESET",
+      "ChânNMI",
+      "Chân/INTA"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 144,
+    "question": "Ngắtmềmlàngắt",
+    "options": [
+      "CPUnhậnyêucầungắttừchânINTR.",
+      "CPUnhậnyêucầungắttừchânNMI",
+      "CPUnhậnyêucầungắttừchânINTA",
+      "Khôngđápánnàođúng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 145,
+    "question": "Nộidungcủathanhghinàosẽcấtvàongănxếpkhicóyêucầungắt đượcđápứng?",
+    "options": [
+      "SS",
+      "SP",
+      "CS",
+      "CSvàFR"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 146,
+    "question": "Thanhghinàosẽđượccậpnhậtlạigiátrịsaukhithựchiệnxong chươngtrìnhconphụcvụngắttươngứng,trởlạichươngtrìnhchính",
+    "options": [
+      "AX",
+      "BX",
+      "CS",
+      "CSvàIP"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 147,
+    "question": "Khixảyrangắt,CPU8086sẽ",
+    "options": [
+      "Cấtngữcảnhhiệntại",
+      "Ngừnghoạtđộng",
+      "Thựchiệnlạichươngtrình",
+      "Tiếptụcthựchiệnchươngtrìnhhiệnhành"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 148,
+    "question": "Trướckhithựchiệnchươngtrìnhngắt,8086sẽlưucácthanhghinào vàongănsếp",
+    "options": [
+      "Thanhghiđoạn",
+      "Thanhghichỉsố",
+      "ThanhghiCS,IPvàthanhghicờ",
+      "Cácthanhghiđanăng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 149,
+    "question": "KhicóyêucầungắttừIOthìsẽgửiđếnchânnàocủa CPU?",
+    "options": [
+      "INTA",
+      "INTR",
+      "INTT",
+      "INTB"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 150,
+    "question": "KhiCPUđồngýngắtthìtínhiệusẽđượcgửitừchânnàovề IO?",
+    "options": [
+      "INTA",
+      "ITNB",
+      "INT",
+      "NID"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 151,
+    "question": "Đoạnchươngtrìnhsaugâyrangắtgì? ANDAL,0 MOVBL,AL MOVAL,8 DIVBL",
+    "options": [
+      "Ngắtdotràn",
+      "ngắtdophépchiacho0",
+      "ngắtmềm",
+      "khôngxảyrangắt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 152,
+    "question": "Đoạnchươngtrìnhsaugâyrangắtgì? ORAL,AL MOVBL,8 SUBAL,8 DIVBL",
+    "options": [
+      "Ngắtdotràn",
+      "Ngắtdophépchiacho0",
+      "Ngắtmềm",
+      "Khôngxảyrangắt"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 153,
+    "question": "DMAcónghĩalàgì?",
+    "options": [
+      "Truycậpbộnhớgiántiếp",
+      "TruycậpCPUgiántiếp",
+      "Truycậpbộnhớtrựctiếp",
+      "TruycậpCPUtrựctiếp"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 154,
+    "question": "KhitraođổiDMA,quyềnđiềukhiểnbusthuộcvề:",
+    "options": [
+      "BộđiềukhiểnDMA",
+      "Bộvixửlýtớ",
+      "Bộnhớ",
+      "Mộtthiếtbịnàođócóyêucầutraođổitrựctiếpvớibộnhớmáytính."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 155,
+    "question": "Khicóyêucầutruycậptrựctiếpbộnhớ,IOgửitínhiệuđếnyêucầu đếnchânnàocủaCPU?",
+    "options": [
+      "HOLA",
+      "HLDA",
+      "HLDL",
+      "HOLD"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 156,
+    "question": "ChânHOLDcủaCPUcóchứcnănggì?",
+    "options": [
+      "Treotínhiệugửiđến",
+      "TreohệthốngbuscủaCPU",
+      "Truyềntínhiệugửiđến",
+      "TruyềntínhiệuHOLD"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 157,
+    "question": "ChânHOLDcủaCPUcóchứcnănggì?",
+    "options": [
+      "NhậntínhiệuyêucầuDMA",
+      "TreohệthốngbuscủaCPU",
+      "Treotínhiệugửiđến",
+      "TruyềntínhiệuHOLD"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 158,
+    "question": "KhiCPUtreohệthốngbuscủanóthìquyềnđiềukhiểnbussẽđược trao chokhốinào?",
+    "options": [
+      "DMAB",
+      "DMA",
+      "DMAC",
+      "DMAD"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 159,
+    "question": "KhiCPUđồngýtreo,táchmìnhrakhỏihệthốngbusthìsẽgửitín hiệu nào?",
+    "options": [
+      "HOLD",
+      "HLDA",
+      "HOLA",
+      "HLDL 2.2BÀITẬP"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 160,
+    "question": "Tronghệvixửlý8086,chođịachỉđầucủađoạnlà25000h,xácđịnh địachỉcuối:",
+    "options": [
+      "26000h",
+      "26FFFh",
+      "35000h",
+      "34FFFh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 161,
+    "question": "Nếuđịachỉđầucủamộtđoạnlà1FFFFHthìđịachỉcuốicủavùng nhớnàylà?",
+    "options": [
+      "A07FFH",
+      "3FFEEH",
+      "64200H",
+      "2FFFEH"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 162,
+    "question": "ChođịachỉđầucủaĐoạndữliệulàA9000h,tìmđịachỉcủađoạnmã xếpliêntiếpvớiđoạndữliệunày",
+    "options": [
+      "A9000h",
+      "0A900h",
+      "B9000h",
+      "B8FFFh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 163,
+    "question": "ChođịachỉđầucủaĐoạndữliệulàA9000h,tìmđịachỉđoạn(địachỉ segment)củađoạnmãxếpliêntiếpvớiđoạndữliệunày",
+    "options": [
+      "B8FFh",
+      "B8FFFh",
+      "B9000h",
+      "B900h"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 164,
+    "question": "ChođịachỉđầucủaĐoạndữliệulà12300h,tìmđịachỉcủađoạnmã xếpliêntiếpvớiđoạndữliệunày",
+    "options": [
+      "222Fh",
+      "2230h",
+      "22300h",
+      "222FFh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 165,
+    "question": "ChođịachỉđầucủaĐoạndữliệulà12300h,tìmđịachỉĐoạncủa đoạn mãxếpliêntiếpvớiđoạndữliệunày",
+    "options": [
+      "222Fh",
+      "2230h",
+      "22300h",
+      "222FFh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 166,
+    "question": "Chođịachỉvậtlýlà54321h,địachỉđoạn5031h,hỏiđịachỉ lệch?",
+    "options": [
+      "502F0h",
+      "54011h",
+      "04011h",
+      "Đápánkhác"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 167,
+    "question": "Chođịachỉvậtlýlà55324h,chođịachỉlệchlà1234h,hỏiđịachỉ đoạn?",
+    "options": [
+      "40F0h",
+      "540F0h",
+      "540Fh",
+      "Đápánkhác"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 168,
+    "question": "Chođịachỉvậtlýlà54321h,địachỉđoạn5002h,hỏiđịachỉ lệch?",
+    "options": [
+      "502F0h",
+      "04301h",
+      "04011h",
+      "Đápánkhác"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 169,
+    "question": "Chođịachỉvậtlýlà12345h,địachỉđoạn1004h,hỏiđịachỉ lệch?",
+    "options": [
+      "02305h",
+      "04301h",
+      "04011h",
+      "Đápánkhác"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 170,
+    "question": "Giátrịdữliệutốiđatrênbus16bitlà:",
+    "options": [
+      "1023",
+      "16383",
+      "32767",
+      "65535"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 171,
+    "question": "Hệvixửlý8086cóthểquảnlýđượcdunglượngbộnhớlàbao nhiêu?",
+    "options": [
+      "1M",
+      "16383Byte",
+      "32767Byte",
+      "65535Byte"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 172,
+    "question": "Hệvixửlý8086quảnlýcácđoạnnhớcódunglượngbao nhiêu?",
+    "options": [
+      "1MB",
+      "1KB",
+      "256KB",
+      "64KB"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 173,
+    "question": "8086hoạtđộngởtầnsố5MHZ,giảsử1lệnhđược8086thựchiện trong 4chukỳđồnghồ.Thờigianthựchiệnlệnhđó?",
+    "options": [
+      "0,8.10-6(s)",
+      "0,5.10-6(s)",
+      "0,6.10-4(s)",
+      "0,2.10-6(s)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 174,
+    "question": "1bytedữliệuđượccấttrongngănxếpởđịachỉvậtlýlà:20000H.Hãy tìmgíatrịcủaSSvàSPtạithờiđiểmđó?",
+    "options": [
+      "SS:SP=2000H:06H",
+      "SS:SP=06H:2000H",
+      "SS:SP=20000H:06H",
+      "Khôngtìmđượcchínhxác 2.2.2"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 175,
+    "question": "Chosơđồkếtnối8086với8255A,sửdụngbộgiảimãcổngNAND nhưhìnhsau XácđịnhđịachỉcáccổngPA,vàthanhghilệnhCR",
+    "options": [
+      "1F78hvà1F7Bh",
+      "1F78hvà1F7Fh",
+      "07DEhvà07DFh",
+      "07DEhvà07E1h Câu322[<TB>]:Chosơđồkếtnối8086với8255A,sửdụngbộgiảimãcổng NANDnhưhìnhsau XácđịnhđịachỉcáccổngPA,vàthanhghilệnhCR"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 176,
+    "question": "Chosơđồkếtnối8086với8255A,sửdụngbộgiảimãcổngNAND nhưhìnhsau XácđịnhđịachỉcáccổngPA,vàthanhghilệnhCR",
+    "options": [
+      "6B68hvà6B6Fh",
+      "6B68hvà6B6Bh",
+      "1ADAhvà1ADDh",
+      "1ADAhvà1ADFh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 177,
+    "question": "Chosơđồkếtnối8086với8255A,sửdụngbộgiảimãcổngNAND nhưhìnhsau XácđịnhđịachỉcáccổngPA,vàthanhghilệnhCR",
+    "options": [
+      "3AD9hvà3ADCh",
+      "3AD9hvà3ADFh",
+      "EB64hvàEB6Fh",
+      "EB64hvàEB67h"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 178,
+    "question": "Chosơđồkếtnối8086với8255A,sửdụngbộgiảimãcổngNAND nhưhìnhsau XácđịnhđịachỉcáccổngPA,vàthanhghilệnhCR",
+    "options": [
+      "3ACBhvà3ACEh",
+      "3ACBhvà3ACFh",
+      "EB2ChvàEB2Fh",
+      "EB2ChvàEB2Eh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 179,
+    "question": "Chosơđồkếtnối8086với8255A,sửdụngbộgiảimãcổngNAND nhưhìnhsau XácđịnhđịachỉcáccổngPA,vàthanhghilệnhCR",
+    "options": [
+      "AB2ChvàAB2Fh",
+      "AB2ChvàAB2Eh",
+      "AB2BhvàAB2Eh",
+      "2ACBhvà2ACEh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 180,
+    "question": "Chosơđồkếtnối8086với8255A,sửdụngbộgiảimãcổngNAND nhưhìnhsau XácđịnhđịachỉcáccổngPA,PB,PCvàthanhghilệnh CR",
+    "options": [
+      "300,301,302,303",
+      "2BC8h,2BC9,2BCA,2BCBh",
+      "6F30h,6H31h,6F32h,6F33h",
+      "AF20h,AF21h,AF22h,AF23h"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 181,
+    "question": "Chosơđồkếtnối8086với8255A,sửdụngbộgiảimãcổngNAND nhưhìnhsau XácđịnhđịachỉcáccổngPA,PB,PCvàthanhghilệnh CR",
+    "options": [
+      "300,301,302,303",
+      "1DCCh,1DCDh,1DCEh,1DCFh",
+      "6F30h,6H31h,6F32h,6F33h",
+      "7F30h,7F31h,7F32h,7F33h 2.2.3 Câu329[<KH>]:Tínhgiátrịtừđiềukhiển(CW)đểcấuhìnhcho8255Atheo sơđồkếtnốisau: Chobiếtcácht ạo CWbytelệnhA(chếđộIO),vàbytelệ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 182,
+    "question": "Tínhgiátrịtừđiềukhiển(CW)đểcấuhìnhcho8255Atheosơđồkết nốisau: ChobiếtcáchtạoCWbytelệnhA(chếđộIO),vàbytelệnhB(chếđộBSR) 8255Anhưsau",
+    "options": [
+      "C4h",
+      "C2h",
+      "B8h",
+      "B4h Câu334[<KH>]:Tínhgiátrịtừđiềukhiển(CW)đểcấuhìnhcho8255Atheo sơđồkếtnốisau: ChobiếtcáchtạoCWbytelệnhA(chếđộIO),vàbytelệnhB(chếđộBSR) 8255Anhưsau"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 183,
+    "question": "Tínhgiátrịtừđiềukhiển(CW)đểcấuhìnhcho8255Atheosơđồkết nốisau: ChobiếtcáchtạoCWbytelệnhA(chếđộIO),vàbytelệnhB(chếđộBSR) 8255Anhưsau Chọnđápánsai(khôngphảilàgiátrịcủatừđiềukhiểnđểcấuhình 8255A):",
+    "options": [
+      "B6h",
+      "B7h",
+      "BDh",
+      "BEh"
+    ],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,1476 @@
+[
+  {
+    "id": 1,
+    "question": "MônhọcKỹthuậtVixửlýlànghiêncứuvề",
+    "options": [
+      "Kiếntrúcmáytính",
+      "Viđiềukhiển",
+      "Chipvixửlý",
+      "Tấtcảcácđápántrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "Bộvixửlýlà:",
+    "options": [
+      "Hệthốngcácvimạchtươngtựhoạtđộngtheochương",
+      "Làmộtvimạchtươngtựhoạtđộngtheochương",
+      "Hệthốngcácvimạchsốhoạtđộngtheochươngtrình.",
+      "Làmộtvimạchsốhoạtđộngtheochươngtrình."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "Mộtbộvixửlýngàynaycóthểcoilà:",
+    "options": [
+      "1vimạchtổhợpcỡlớn",
+      "1máytínhcỡnhỏ",
+      "1bộđiềukhiển",
+      "1bộxửlýsốhọc"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "Cácmáytínhchúngtađangdùngngàynaylàmáytínhthếhệnào?",
+    "options": [
+      "Thếhệ3",
+      "Thếhệ4",
+      "Thếhệ5",
+      "Thếhệ6"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Thiếtbịdùngđểtínhtoánđầutiênmàtrongđógiátrịtheovịtríđãđược sửdụng,gópphầnchosựrađờicủamáytínhngàynay?",
+    "options": [
+      "Bàntínhabaci",
+      "CasinoFX-500",
+      "Ipad",
+      "EleadFPT"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "Tronglịchsửpháttriểncácbộvixửlý,lậptrìnhviênđầutiênlà ai?",
+    "options": [
+      "Babbage",
+      "BlaisePascal",
+      "AdaAugustaKing",
+      "JohnMauchly"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "Máytínhngàynayđangdùnglàloạinàotrongcácloạisau:",
+    "options": [
+      "Discretetransistor",
+      "Very-large-scaleintegration",
+      "Integratedcircuit",
+      "VacuumTubes"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "Theoemlịchsửpháttriểncácbộvixửlýđượcphânthànhcácthếhệ, giai đoạndựatrêncácmốcpháttriểncủa:",
+    "options": [
+      "Côngnghệchếtạo",
+      "Côngnghệtinhọc",
+      "Sựgiảmkíchthướcchipvixửlý",
+      "Sựtăngtốcđộxửlý"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "Tại sao thế giới không nghiên cứu chế tạo và cho ra đờihệvixửlýmáy tính thế hệ thứ 5 mà vẫn sử dùng bộ vi xử lý thế hệ thứ 4 (từ 8086/.. /Pentium/..i3/i5ngàynay)?",
+    "options": [
+      "Vìconngườikhôngcónhucầuxửlývàtínhtoáncaohơn,thôngminh",
+      "NhậtvàMỹđãthấtbạikhixâydựngmộtsốdựánvềtrítuệnhântạo,",
+      "Khôngcódữliệuphứctạpcầnkhaiphá.",
+      "Xửlýthôngminhhơnnhưngkhôngtạoradữliệumới."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "Kíchthướccủamộthệvixửlýphụthuộcvào",
+    "options": [
+      "Dunglượngbộnhớcủahệvixửlý",
+      "Côngnghệchếtạovixửlý",
+      "Sốbitđịachỉmànósửdụng",
+      "Sốbitdữliệumànósửdụng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "Vixửlýmáytínhlàvixửlýloại",
+    "options": [
+      "Đanăng",
+      "DSP",
+      "Viđiềukhiển",
+      "ASIP"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "Trongphânloạicácbộvixửlytheotậplệnh,RISClàVXL có",
+    "options": [
+      "Nhiềulệnh",
+      "Cáclệnhcóđộdàikhácnhau",
+      "Tậplệnhphứctạp",
+      "CócấutrúcVXLđơngiản,nhiềuthanhghi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "Trongphânloạivixửlytheotậplệnh,CISClàbộVXLcó:",
+    "options": [
+      "Tậplệnhrútgọn",
+      "CócấutrúcVXLđơngiản,nhiềuthanhghi",
+      "Ítlệnh",
+      "Cáclệnhcóđộdàibằngnhau"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "KiếntrúcRISCcónhữngđặcđiểmgì:",
+    "options": [
+      "Chuyểnđộphứctạptừphầncứngsangphầnmềm",
+      "Đơngiảntrongviệcthiếtkếchip",
+      "Tốcđộcao",
+      "Cả3ýtrên."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "KiếntrúcCISCcónhữngđặcđiểmgì:",
+    "options": [
+      "Chuyểnđộphứctạptừphầnmềmsangphầncứng",
+      "Đơngiảntrongviệcthiếtkếchip",
+      "Tốcđộcao",
+      "Dễthiếtkếcấutrúcđườngống(pipelining)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "Sửdụngsốnhịphânchohệvixửlýmáytínhvì:",
+    "options": [
+      "Dễdùng",
+      "Đơngiản",
+      "Dễtínhtoán",
+      "Biểudiễnngắngọn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "Tạisaokhôngchếtạomáytínhtrênnềntảnghệ10,hệsốchúngtarất quenthuộc,cảthếgiớiđềudùng,màlạichếtạomáytínhhệ2?",
+    "options": [
+      "Dễdùng",
+      "Chếtạođơngiản",
+      "Dễtínhtoán",
+      "Biểudiễnngắngọn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "Mộtchữsốhệ10,vídụ99,khichuyểnsanghệ2làthànhdãysố7 chữ số,làrấtdài?Tạisaolạichếtạomáytínhdựatrênhệ2?",
+    "options": [
+      "Dễdùng",
+      "Dễchếtạo",
+      "Dễtínhtoán",
+      "Biểudiễnngắngọn"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "Hệcơsốnàođượcdùngđểlưutrữ,biểudiêndữliệu,trongmộthệ thốngsốnhưvixửlý?",
+    "options": [
+      "Hệ2",
+      "Hệ10",
+      "Hệ16",
+      "Tấtcảcáchệtrên"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "ChọnđápánSaichophátbiểusau:Mộtchữsốnhịphân(1bítnhịphân) biểudiễnđược:",
+    "options": [
+      "2giátrị0và1",
+      "1giátrị0hoặc1",
+      "Cácgiátrịtừ0đến1",
+      "Giátrị2"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "Chữsốhexađượcdùngđểbiểuđiễncho:",
+    "options": [
+      "Chỉcácgiátrịsố0và1",
+      "Cácgiátrịsốnhịphântừ0đến2",
+      "Cácgiátrịsốthậpphântừ0đến15",
+      "Cácchữsốtừ1đến16"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "Mộtsốnhịphângồm5chữsốcóthểbiểudiễnđượccácgiátrị:",
+    "options": [
+      "Từ0đến5",
+      "Từ0đến6",
+      "Từ0đến31",
+      "Từ0đến32"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "1bytecóthểbiểudiễnđược",
+    "options": [
+      "256giátrịtừ1đến256",
+      "256giátrịtừ0đến255",
+      "255giátrịtừ0đến255",
+      "255giátrịtừ0đến254"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "Mộtchữsốhexagồm2chữsốcóthểbiểudiễnđượccácgiá trị:",
+    "options": [
+      "16giátrịtừ0đến15",
+      "32giátrịtừ0đến31",
+      "128giátrịtừ0đến127",
+      "256giátrịtừ0đến255"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "Mộtsốnhịphângồm6chữsốcóthểbiểudiễnđượccácgiátrị:",
+    "options": [
+      "Từ0đến5",
+      "Từ0đến63",
+      "Từ1đến64",
+      "Từ-31đến31"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "Mộtsốnhịphângồm8chữsốcóthểbiểudiễnđượccácgiátrị:",
+    "options": [
+      "Từ0đến7",
+      "Từ0đến255",
+      "Từ1đến256",
+      "Từ-128đến127"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "MộtchữsốHexa(hệ16)đượcbiểudiễnbởimấybítnhịphân",
+    "options": [
+      "2bít",
+      "4bít",
+      "6bít",
+      "8bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "Nhómmấybítnhịphânthànhmộtchữsốhexa?",
+    "options": [
+      "2bít",
+      "4bít",
+      "6bít",
+      "8bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "10bitnhịphâncóthểbiểudiễnbởimộtsốhexacó",
+    "options": [
+      "1chữsố",
+      "2chữsố",
+      "3chữsố",
+      "4chữsố"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "Biểudiễnsốâmtronghệnhịphân,sửdụngbítcótrọngsốlớnnhấtlà bítdấu,sốbítbiểudiễnn=8bít.Hỏidảibiểudiễnlà",
+    "options": [
+      "-128÷128",
+      "-128÷127",
+      "-127÷127",
+      "-127÷128"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "Biểudiễnsốâmtronghệnhịphânbằngsốbù2,sốbítbiểudiễnn=8 bít.Hỏidảibiểudiễnlà",
+    "options": [
+      "-128÷128",
+      "-128÷127",
+      "-127÷127",
+      "-127÷128"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "Mãbù1của1sốnhịphânđượctạoranhưthếnào?",
+    "options": [
+      "Làbiểudiễnnhịphâncủasốđó",
+      "Côngthêm1vàogiátrịnhịphâncủasốđó.",
+      "Lấygiátrịnhịphântrừđi1.",
+      "Đảotrạngtháicủatấtcảcácbitbiểudiễnnhịphâncủasốđó."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "Mãbù2của1sốnhịphânđượctạoranhưthếnào?",
+    "options": [
+      "Đảotrạngtháitấtcảcácbitcủasốnhịphân.",
+      "Cộngthêm1vàomãbù1.",
+      "Cộngthêm2vàomãbù1.",
+      "Lấybù1trừđi1."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "CầnbaonhiêubítđểmãhóahếtbảngmãASCII.",
+    "options": [
+      "6bit",
+      "7bit",
+      "8bit",
+      "16bit"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "MãASCIIcủakýtựthường(ađếnz)vàmãcủacáckýtựhoa(Ađến Z)hơnkémnhau:",
+    "options": [
+      "8đơnvị",
+      "32đơnvị",
+      "16đơnvị",
+      "20đơnvị"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "Giảsử1bytechứamãASCIIcủamộtkýtựchữin.Đểđổinóthành dạngchữthườngtaphải:",
+    "options": [
+      "Cộngthêm32",
+      "Trừđi20H",
+      "Cộngthêm20",
+      "Trừđi32"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "Tronghệnhịphân,1bytebằng",
+    "options": [
+      "4bít",
+      "8bít",
+      "10bít",
+      "16bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "Tronghệnhịphân,1từ(word)là",
+    "options": [
+      "4bít",
+      "8bít",
+      "10bít",
+      "16bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "Tronghệnhịphân,1Klà",
+    "options": [
+      "210",
+      "220",
+      "230",
+      "240"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "Tronghệnhịphân,1Mlà",
+    "options": [
+      "210",
+      "220",
+      "230",
+      "240"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "Tronghệnhịphân,1Glà",
+    "options": [
+      "210",
+      "220",
+      "230",
+      "240"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "Tronghệnhịphân,1Tlà",
+    "options": [
+      "210",
+      "220",
+      "230",
+      "240"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "Tronghệnhịphân,1Kgiátrịkhácnhauđượcbiểudiễn trong",
+    "options": [
+      "8bít",
+      "10bít",
+      "16bít",
+      "20bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "Tronghệnhịphân,1Mgiátrịkhácnhauđượcbiểudiễn trong",
+    "options": [
+      "8bít",
+      "10bít",
+      "16bít",
+      "20bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "Tronghệnhịphân,1Ggiátrịkhácnhauđượcbiểudiễn trong",
+    "options": [
+      "8bít",
+      "16bít",
+      "20bít",
+      "30bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "Tronghệnhịphân,1Tgiátrịkhácnhauđượcbiểudiễntrong",
+    "options": [
+      "10bít",
+      "20bít",
+      "30bít",
+      "40bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 52,
+    "question": "Tươngđươngvớikếtquảnhânmộtsốnhịphânvới8là:",
+    "options": [
+      "Dịchsốđósangtrái3vịtrí",
+      "Dịchsốđósangphải3vịtrí",
+      "Dịchsốđósangtrái4bít",
+      "Dịchsốđósangphải4bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 53,
+    "question": "Tươngđươngvớikếtquảchiamộtsốnhịphânvới8là:",
+    "options": [
+      "Dịchsốđósangtrái3vịtrí",
+      "Dịchsốđósangphải3vịtrí",
+      "Dịchsốđósangtrái4bít",
+      "Dịchsốđósangphải4bít"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 54,
+    "question": "Đểđảotrạngtháicácbítcủamộtchữsốnhịphân4bít,cóthểsửdụng hàm:",
+    "options": [
+      "ANDbítvớigiátrị1111b",
+      "ORbítvớigiátrị11111b",
+      "XORbítvớigiátrị1111b",
+      "NOTvớigiátrị1111b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 55,
+    "question": "Đểlập(lên1)cácbítcủamộtchữsốnhịphân4bít,cóthểsửdụng hàm:",
+    "options": [
+      "ANDbítvớigiátrị1111b",
+      "ORbítvớigiátrị11111b",
+      "XORbítvớigiátrị1111b",
+      "NOTvớigiátrị1111b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 56,
+    "question": "Đểxóa(về0)cácbítcủamộtchữsốnhịphân4bít,cóthểsửdụng hàm:",
+    "options": [
+      "ANDbítvớigiátrị0000b",
+      "ORbítvớigiátrị0000b",
+      "XORbítvớigiátrị0000b",
+      "NOTvớigiátrị0000b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "Đểlập4bítđầucủamộtsốnhịphân8bítvàgiữnguyên4bítcònlại:",
+    "options": [
+      "ANDbítvớigiátrịF0h",
+      "ORbítvớigiátrịF0h",
+      "XORbítvớigiátrịF0h",
+      "NOTvớigiátrịF0h"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "Đểxóa4bítđầucủamộtsốnhịphân8bítvàgiữnguyên4bítcònlại:",
+    "options": [
+      "ANDbítvớigiátrị0Fh",
+      "ORbítvớigiátrị0Fh",
+      "XORbítvớigiátrị0Fh",
+      "NOTvớigiátrị0Fh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "question": "Chuyểnđổisố132sangsốnhịphân,sốcótrọngsốlớnnhấtlàởvịtrí trọngsốnào",
+    "options": [
+      "haimũ8",
+      "haimũ7",
+      "haimũ6",
+      "haimũ5"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 61,
+    "question": "Đểđổi1sốnhịphânsangsốhexa,",
+    "options": [
+      "Theochiềutừtráisangphải,nhóm2bítnhịphânthành1chữsốhexa",
+      "Theochiềutừphảisangtrái,nhóm2bítnhịphânthành1chữsốhexa",
+      "Theochiềutừtráisangphải,nhóm4bítnhịphânthành1chữsốhexa",
+      "Theochiềutừphảisangtrái,nhóm4bítnhịphânthành1chữsốhexa"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 62,
+    "question": "Đểđổi1sốnguyênhexasanggiátrịthậpphân(hệ10),vídụ123h:",
+    "options": [
+      "Làtổngcủacáctíchchữsốhexanhânvớitrọngsố10mũtươngứng,",
+      "Làtổngcủacáctíchchữsốhexanhânvớitrọngsố16mũtươngứng,",
+      "Làtổngcủacáctíchchữsốhexanhânvớitrọngsố10mũtươngứng,",
+      "Làtổngcủacáctíchchữsốhexanhânvớitrọngsố16mũtươngứng,"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 63,
+    "question": "Thựchiệnphéptínhtrênhệnhịphân:cộnghaisốnhịphânlà1và1thì viếtmấynhớmấy?",
+    "options": [
+      "Viết0nhớ1",
+      "Viết1nhớ0",
+      "Viết1nhớ1",
+      "Viết0nhớ0"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 64,
+    "question": "Thựchiệnphéptínhtrừ2sốnhịphântrênhệnhịphân,khimượn1 đơnvịtừhàngtrước(bêntrái)về,sẽlàđượctươngđương",
+    "options": [
+      "0đơnvị",
+      "1đơnvị",
+      "2đơnvị",
+      "1và1đơnvị"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 65,
+    "question": "Cộnghaisốhexa:BcộngvớiE,thìsẽviếtmấynhớmấy?",
+    "options": [
+      "Viết5nhớ2",
+      "Viết2nhớ5",
+      "Viết9nhớ1",
+      "Viết1nhớ9"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 66,
+    "question": "Chuyểnđổisố123sangsốnhị phân:",
+    "options": [
+      "11110110b",
+      "01111011b",
+      "01101010b",
+      "01101111b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 67,
+    "question": "Chuyểnđổisố213sangsốnhị phân:",
+    "options": [
+      "11010101b",
+      "11111011b",
+      "11101010b",
+      "11101111b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 68,
+    "question": "Chuyểnđổisố321sangsốnhị phân:",
+    "options": [
+      "101110110b",
+      "101000001b",
+      "101101010b",
+      "101101111b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 69,
+    "question": "Chuyểnđổisố312sangsốnhị phân:",
+    "options": [
+      "101110110b",
+      "101000001b",
+      "101101010b",
+      "100111000b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 70,
+    "question": "Chuyểnđổisố234sangsố hexa:",
+    "options": [
+      "FEh",
+      "AEh",
+      "FAh",
+      "EAh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 71,
+    "question": "Chuyểnđổisố243sangsố hexa:",
+    "options": [
+      "E3h",
+      "EAh",
+      "F3h",
+      "FAh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 72,
+    "question": "Chuyểnđổisố124sangsố hexa:",
+    "options": [
+      "73h",
+      "EAh",
+      "7Ch",
+      "3Ch"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 73,
+    "question": "Chuyểnđổisố142sangsốhexa:",
+    "options": [
+      "F3h",
+      "E8h",
+      "7Ch",
+      "8Eh"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 78,
+    "question": "Kếtquảchuyểnđổisốhexa1ACHvềsốthập phân:",
+    "options": [
+      "482",
+      "428",
+      "248",
+      "282"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 79,
+    "question": "Kếtquảchuyểnđổisốhexa1E2Hvềthập phân:",
+    "options": [
+      "482",
+      "428",
+      "248",
+      "282"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 80,
+    "question": "Kếtquảchuyểnđổisốhexa11AHvềthậpphân:",
+    "options": [
+      "482",
+      "428",
+      "248",
+      "282"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 82,
+    "question": "Kếtquảchuyểnđổisố10110010000101Bvềhexa:",
+    "options": [
+      "2C85h",
+      "B214",
+      "A5D8",
+      "2976"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 83,
+    "question": "Kếtquảchuyểnđổisố10100101110110Bvềhexa:",
+    "options": [
+      "2C85",
+      "B214",
+      "A5D8",
+      "2976"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 84,
+    "question": "Kếtquảchuyểnđổisố1110101111001Bvềhexa:",
+    "options": [
+      "2C85",
+      "ECB8",
+      "1D79",
+      "2976"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 85,
+    "question": "Tínhtoántrênhệ2,tổngcủa2sốnhịphân0111bvà 1001b?",
+    "options": [
+      "01111b",
+      "10000b",
+      "10001b",
+      "10101b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 86,
+    "question": "Thaotáctrênhệnhịphân,tínhhiệucủa2sốnhịphân1100bvà 1001b?",
+    "options": [
+      "0011b",
+      "0001b",
+      "0101b",
+      "1011b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 87,
+    "question": "Thựchiệntínhtổng2sốhexasautrênhệ16vàchọnđápánđúng:89h +A8h.",
+    "options": [
+      "131H",
+      "D1H",
+      "197H",
+      "Đápánkhác."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 88,
+    "question": "Thựchiệnphéptínhsautrênhệ16vàchọnđápánđúngA8h- 89h.",
+    "options": [
+      "131H",
+      "D1H",
+      "197H",
+      "Đápánkhác."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 89,
+    "question": "Thựchiệnphépcộngsau:16(D)+20(H)",
+    "options": [
+      "30(H)",
+      "41(D)",
+      "00110010(B)",
+      "30(D)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 90,
+    "question": "Thựchiệnphéptínhsau:23E(H)+BFD(H)",
+    "options": [
+      "E3B(H)",
+      "EEB(H)",
+      "CFB(H)",
+      "3F4(H)"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 91,
+    "question": "Đổisốnhịphânsausanghexa:0,01010011111001b",
+    "options": [
+      "0,53E4H",
+      "0,14F9H",
+      "0,53E1H",
+      "0,14F1H"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 92,
+    "question": "Đổisốnhịphânsausangsốhexa:0,10011110001101B",
+    "options": [
+      "0,878Dh",
+      "0,278Dh",
+      "0,9E34h",
+      "0,9E31h"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 93,
+    "question": "Đổisốnhịphânsausangsốthậpphân:11,011b.",
+    "options": [
+      "0,365",
+      "0,375",
+      "3,125",
+      "3,375."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 94,
+    "question": "Đổisốnhịphânsausangsốthậpphân:11,101b.",
+    "options": [
+      "0,365",
+      "0,625",
+      "3,625",
+      "3,375."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 95,
+    "question": "Đổisốnhịphânsausangsốthậpphân:0,110b.",
+    "options": [
+      "0,725",
+      "0,625",
+      "3,625",
+      "3,725."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 96,
+    "question": "Đổisốnhịphânsausangsốthậpphân:0,011b.",
+    "options": [
+      "0,365",
+      "0,375",
+      "3,125",
+      "3,375."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 97,
+    "question": "Đổisốnhịphânsausangsốthậpphân:0,101b.",
+    "options": [
+      "0,365",
+      "0,625",
+      "3,625",
+      "3,375."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 98,
+    "question": "Đổisốnhịphânsausangsốthậpphân:11,110b.",
+    "options": [
+      "0,725",
+      "0,625",
+      "3,625",
+      "3,725."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 99,
+    "question": "Đổisốthậpphân57,4375sangnhịphân",
+    "options": [
+      "111001,0101b",
+      "111001,0111b",
+      "111001,1101b",
+      "111011,1010b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 100,
+    "question": "Đổisốthậpphân67,8125sangnhịphân",
+    "options": [
+      "1000011,1101b",
+      "1000011,1001b",
+      "1000011,1011b",
+      "1000011,1110b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 101,
+    "question": "Đổisốthậpphân67,5625sangnhịphân",
+    "options": [
+      "1000011,1101b",
+      "1000011,1011b",
+      "1000011,1001b",
+      "1000011,1110b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 102,
+    "question": "Đổisốthậpphân67,6875sangnhịphân",
+    "options": [
+      "1000011,1101b",
+      "1000011,1011b",
+      "1000011,1001b",
+      "1000011,1110b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 103,
+    "question": "Đổisốthậpphân67,875sangnhịphân",
+    "options": [
+      "1000011,1101b",
+      "1000011,1011b",
+      "1000011,1001b",
+      "1000011,1110b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 104,
+    "question": "Tìmsốbù1vàsốbù2củasố19?",
+    "options": [
+      "Sốbù1:00010011;sốbù2:11101101.",
+      "Sốbù1:00010011;sốbù2:11101100.",
+      "Sốbù1:11101100;sốbù2:11101101",
+      "Sốbù1:11101100;sốbù2:11101110."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 105,
+    "question": "Chosố17ởhệthậpphân,tìmsốbù2?",
+    "options": [
+      "00010000.",
+      "11101111",
+      "11101110.",
+      "00101111."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 106,
+    "question": "Biểudiễnsố-51dướidạngsốnhịphân(códấu)8bít",
+    "options": [
+      "11100100b",
+      "10110011b",
+      "01110010b",
+      "11110010b"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 107,
+    "question": "Tìmmãbù2củasố67đểbiểudiễn-67dướidạngsốnhịphântrong hệvixửlý.",
+    "options": [
+      "10111100B",
+      "11100011B",
+      "01110010B",
+      "10111101B"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 108,
+    "question": "Mộtsốnhịphâncón=6bítsẽbiểudiễnđượcbaonhiêusốnguyên dương?",
+    "options": [
+      "56sốnguyêndươngtừ0đến55",
+      "56sốnguyêndươngtừ0đến56",
+      "32sốnguyêndươngtừ0đến31",
+      "64sốnguyêndươngtừ0đến63"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 109,
+    "question": "Mộtsốnhịphâncón=5bítsẽbiểudiễnđượcbaonhiêugiátrị?",
+    "options": [
+      "56giátrịtừ0đến55",
+      "56giátrịtừ0đến56",
+      "32giátrịtừ0đến31",
+      "64giátrịtừ0đến63"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 110,
+    "question": "Mộtsốnhịphâncón=9bítsẽbiểudiễnđượcbaonhiêugiátrị?",
+    "options": [
+      "516giátrịtừ0đến515",
+      "512giátrịtừ0đến511",
+      "564giátrịtừ0đến563",
+      "528giátrịtừ0đến527"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 111,
+    "question": "Mộtsốnhịphâncón=5bítsẽbiểudiễnđượcbaonhiêusốnguyêntheo phươngphápdùngbítcótrọngsốlớnnhấtlàmbítdấu?",
+    "options": [
+      "32sốtừ0đến31",
+      "31sốtừ1đến31",
+      "31sốtừ-15đến+15",
+      "32sốtừ-16đến+15"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 112,
+    "question": "Biểudiễnsốnguyên(nguyênâmvànguyêndương).Hỏidảibiểudiễn củamộtchữsốn=6bíttheophươngphápdùngbítcótrọngsốlớnnhấtlàmbít dấu?",
+    "options": [
+      "32sốtừ0đến31",
+      "31sốtừ1đến31",
+      "31sốtừ-15đến+15",
+      "32sốtừ-16đến+15"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 113,
+    "question": "Mộtsốnhịphâncón=10bítsẽbiểudiễnđượcbaonhiêusốnguyên theophươngphápdùngmãbù2đểbiểudiễnsốnguyênâm",
+    "options": [
+      "1023sốtừ1đến1023",
+      "1024sốtừ0đến1023",
+      "1024sốtừ-511đến+511",
+      "1024sốtừ-512đến+511"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 114,
+    "question": "Biểudiễnđượcbaonhiêusốnguyêntheophươngphápdùngmãbù2 đểbiểudiễnsốnguyênâm.Hỏidảibiểudiễncủasốnhịphânn=9bít",
+    "options": [
+      "516giátrịtừ0đến515",
+      "512giátrịtừ-255đến+255",
+      "564giátrịtừ-282đến+281",
+      "512giátrịtừ-256đến+255"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 115,
+    "question": "Tìmsốbù1của29",
+    "options": [
+      "100011B",
+      "100010B",
+      "00011B",
+      "00010B"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 116,
+    "question": "Thểhiệnsốâm29dướidạngsốnhịphân(bù2).",
+    "options": [
+      "100011B",
+      "100010B",
+      "00011B",
+      "00010B"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 117,
+    "question": "Thểhiệnsốâm29dướidạngsốnhịphâncódấu(dùngbítMSBlàm bítdấu).",
+    "options": [
+      "100011B",
+      "100010B",
+      "11101B",
+      "111101B"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 118,
+    "question": "Biểudiễnsố+112dướidạngsốnhịphâncódấu(dùngMSBlàmbít dấu)",
+    "options": [
+      "1110000B",
+      "01110000B",
+      "0111011B",
+      "1111011B"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 119,
+    "question": "Tìmsốbù1của112",
+    "options": [
+      "1110000B",
+      "01110000B",
+      "10001111B",
+      "0001111B"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 120,
+    "question": "Tìmsốbù2của112đểbiểudiễn-112",
+    "options": [
+      "1110000B",
+      "01110000B",
+      "10001111B",
+      "10010000B"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 121,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:101:2=23",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 122,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:101:2=34",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 123,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:102:2=21",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 124,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:102:2=31",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 125,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:102:2=41",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 126,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:102:3=12",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 127,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:102:3=14",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 128,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:102:3=23",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 129,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:103:2=24",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 130,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:103:2=35",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 131,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:103:3=21",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 132,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:104:2=32",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 133,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:104:2=42",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 134,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:110:2=22",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 135,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:110:2=30",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 136,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:110:2=33",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 137,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:110:2=40",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 138,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:110:2=32",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 139,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:110:3=20",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 140,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:110:2=22",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 141,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:111:3=40",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 142,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:112:2=23",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 143,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:112:2=31",
+    "options": [
+      "Hệ4",
+      "Hệ5",
+      "Hệ6",
+      "Hệ7"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 144,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:112:2=34",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 145,
+    "question": "Tronghệcơsốnàobiểuthứcsauxảyra:112:2=41",
+    "options": [
+      "Hệ5",
+      "Hệ6",
+      "Hệ7",
+      "Hệ8"
+    ],
+    "correctAnswer": 0
+  }
+]
